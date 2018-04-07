@@ -1,0 +1,54 @@
+{% extends 'admin/master.html' %}
+{% block body %}
+    {% if current_user.is_authenticated %}
+        <style type="text/css">
+            #all {
+                width: 500px;
+                height: 400px;
+                margin-left: 110px;
+                margin-top: 110px;
+            }
+
+            #all .title {
+                font-family: "微软雅黑";
+                font-size: 24px;
+                padding-left: 20px;
+            }
+
+            hr {
+                width: 477px;
+                height: 5px;
+                background-color: #006600;
+                float: right;
+                margin: 15px 0;
+            }
+
+            #all li {
+                line-height: 25px;
+                margin: 10px 5px;
+                font-family: "微软雅黑";
+                font-size: 16px;
+                list-style-image: url(img/a.ico);
+            }
+        </style>
+        </head>
+
+        <body>
+        <div id="all">
+            <div class="title">通知公告</div>
+            <hr/>
+            <div class="content">
+                <ul>
+                    <li>你能看到这个通知，那是因为你登陆成功了</li>
+                    <li>顺便告诉你，未登陆状态下，也能看到几个菜单哦</li>
+                    <li>能改动数据的只有管理员哦</li>
+                    <li>新用户用户名就是借手机时填的名字，密码是123456明文哦</li>
+
+                </ul>
+            </div>
+        </div>
+    {% endif %}
+
+{% block below %}
+{% endblock %}
+{% endblock %}

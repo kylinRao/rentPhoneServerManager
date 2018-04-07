@@ -1,0 +1,75 @@
+{% extends 'base_notice.html' %}
+{% block below %}
+
+    <fieldset>
+
+
+        {% if  current_user.is_anonymous %}
+
+            <table background="images\bg_img1.jpg " width="933" height="412">
+                <tr height="170">
+                    <td width="570px"></td>
+                    <td></td>
+                </tr>
+                <tr>
+
+                    <td>
+                        <table align="center">
+                            <form method="POST" action='/login/' name="frmLogin">
+                                <tr>
+                                    <td>用户名：</td>
+                                    <td><input type="text" name="name" value="Your name" size="20" maxlength="20"
+                                               onfocus="if (this.value=='Your name')  this.value='';"/></td>
+                                    <td></td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>密 码：</td>
+                                    <td><input type="password" name="password" value="Your password" size="20"
+                                               maxlength="20"
+                                               onfocus="if (this.value=='Your password')  this.value='';"/>
+                                    </td>
+                                    <td></td>
+                                    <td></td>
+                                </tr>
+
+                        </table>
+                    </td>
+                <tr>
+
+                    <td>
+                        <table align="center">
+                            <tr>
+                                <td><input type="submit" name="login" value="登录" onClick="return validateLogin()"/></td>
+                                <td><input type="reset" name="rs" value="重置"></td>
+
+                            </tr>
+                            </tr>
+                        </table>
+                    </td>
+            </table>
+            </fieldset>
+            </form>
+        {% endif %}
+    <script language="javascript">
+        function validateLogin() {
+            var sUserName = document.frmLogin.username.value;
+            var sPassword = document.frmLogin.password.value;
+            var sinputCode = document.frmLogin.inputcode.value;
+            if ((sUserName == "") || (sUserName == "Your name")) {
+                alert("请输入用户名!");
+                return false;
+            }
+
+            if ((sPassword == "") || (sPassword == "Your password")) {
+                alert("请输入密码!");
+                return false;
+            }
+            if ((sinputCode == "") || (sinputCode == "Your code")) {
+                alert("请输入验证码!");
+                return false;
+            }
+        }
+    </script>
+{% endblock %}
+

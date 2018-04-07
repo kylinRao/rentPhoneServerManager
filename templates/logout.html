@@ -1,0 +1,118 @@
+{% extends 'admin/master.html' %}
+{% block body %}
+
+    <fieldset>
+    {% if current_user.is_authenticated %}
+        <style type="text/css">
+#all{
+    width:500px;
+    height:400px;
+    margin-left:220px;
+    margin-top:110px;
+}
+#all .title{
+    font-family:"微软雅黑";
+    font-size:24px;
+    padding-left:20px;
+}
+hr{
+    width:477px;
+    height:5px;
+    background-color:#006600;
+    float:right;
+    margin:15px 0;
+}
+#all li{
+    line-height:25px;
+    margin:10px 5px;
+    font-family:"微软雅黑";
+    font-size:16px;
+    list-style-image: url(img/a.ico);
+}
+</style>
+</head>
+
+<body>
+<div id="all">
+    <div class="title">通知公告</div>
+    <hr />
+    <div class="content">
+        <ul>
+            <li>您已经退出登陆了</li>
+            <li>欢迎下次登陆查看</li>
+            <li>本宝宝告诉你个小秘密：</li>
+            <li>1、只有管理员才能编辑各个数据</li>
+            <li>2、匿名访问的用户有些菜单是看不到的哟</li>
+
+        </ul>
+    </div>
+</div>
+
+{% else %}
+        <table background="images\bg_img1.jpg " width="933" height="412">
+            <tr height="170">
+                <td width="570px"></td>
+                <td></td>
+            </tr>
+            <tr>
+
+                <td>
+                    <table align="center">
+                        <form method="POST" action='/login/' name="frmLogin">
+                            <tr>
+                                <td>用户名：</td>
+                                <td><input type="text" name="name" value="Your name" size="20" maxlength="20"
+                                           onfocus="if (this.value=='Your name')  this.value='';"/></td>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                            <tr>
+                                <td>密 码：</td>
+                                <td><input type="password" name="password" value="Your password" size="20"
+                                           maxlength="20" onfocus="if (this.value=='Your password')  this.value='';"/>
+                                </td>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                    </table>
+                </td>
+            <tr>
+
+                <td>
+                    <table align="center">
+                        <tr>
+                            <td><input type="submit" name="login" value="登录" onClick="return validateLogin()"/></td>
+                            <td><input type="reset" name="rs" value="重置"></td>
+                            <td><input type="button" name="button" value="注册"
+                                       onclick="location.href='http://localhost:8080/test/zc.html?login=%B5%C7%C2%BC'">
+                            </td>
+                        </tr>
+                        </tr>
+                    </table>
+                </td>
+        </table>
+    </fieldset>
+    </form>
+    {% endif %}
+    <script language="javascript">
+        function validateLogin() {
+            var sUserName = document.frmLogin.username.value;
+            var sPassword = document.frmLogin.password.value;
+            var sinputCode = document.frmLogin.inputcode.value;
+            if ((sUserName == "") || (sUserName == "Your name")) {
+                alert("请输入用户名!");
+                return false;
+            }
+
+            if ((sPassword == "") || (sPassword == "Your password")) {
+                alert("请输入密码!");
+                return false;
+            }
+            if ((sinputCode == "") || (sinputCode == "Your code")) {
+                alert("请输入验证码!");
+                return false;
+            }
+        }
+    </script>
+
+{% endblock %}

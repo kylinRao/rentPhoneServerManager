@@ -1,0 +1,1115 @@
+[2018-04-07 16:13:52,543]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 16:13:57,832]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 16:13:57,894]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 16:13:57,927]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 16:14:00,783]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 16:14:00] "POST /rentPhoneReport HTTP/1.1" 200 -
+[2018-04-07 16:14:02,604]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 16:14:02] "POST /rentPhoneReport HTTP/1.1" 200 -
+[2018-04-07 16:18:09,651]INFO | werkzeug:  * Detected change in 'D:\\projects\\github\\loginTest\\api\\rentPhoneReport.py', reloading
+[2018-04-07 16:18:09,742]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 16:18:15,394]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 16:18:15,443]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 16:18:15,461]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 16:18:54,979]INFO | werkzeug:  * Detected change in 'D:\\projects\\github\\loginTest\\api\\rentPhoneReport.py', reloading
+[2018-04-07 16:18:55,078]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 16:19:00,609]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 16:19:00,671]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 16:19:00,693]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 16:19:13,859]INFO | werkzeug:  * Detected change in 'D:\\projects\\github\\loginTest\\api\\rentPhoneReport.py', reloading
+[2018-04-07 16:19:13,937]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 16:19:17,019]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 16:19:17,046]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 16:19:17,058]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 16:19:29,625]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 16:19:34,477]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 16:19:34,535]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 16:19:34,558]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 16:19:42,933]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 16:19:42] "POST /rentPhoneReport HTTP/1.1" 200 -
+[2018-04-07 16:19:44,948]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 16:19:44] "POST /rentPhoneReport HTTP/1.1" 500 -
+[2018-04-07 16:21:48,130]INFO | werkzeug:  * Detected change in 'D:\\projects\\github\\loginTest\\api\\rentPhoneReport.py', reloading
+[2018-04-07 16:21:48,266]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 16:21:53,275]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 16:21:53,339]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 16:21:53,368]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 16:22:00,177]INFO | werkzeug:  * Detected change in 'D:\\projects\\github\\loginTest\\api\\rentPhoneReport.py', reloading
+[2018-04-07 16:22:00,303]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 16:22:04,594]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 16:22:04,678]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 16:22:04,700]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 16:24:47,976]INFO | werkzeug:  * Detected change in 'D:\\projects\\github\\loginTest\\api\\rentPhoneReport.py', reloading
+[2018-04-07 16:24:48,223]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 16:24:52,503]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 16:24:52,532]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 16:24:52,543]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 16:27:20,395]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 16:27:23,714]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 16:27:23,750]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 16:27:23,762]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 16:27:34,066]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 16:27:34] "POST /rentPhoneReport HTTP/1.1" 200 -
+[2018-04-07 16:28:10,943]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 16:28:12,881]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 16:28:12,924]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 16:28:12,937]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 16:28:15,604]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 16:28:15] "POST /rentPhoneReport HTTP/1.1" 200 -
+[2018-04-07 16:28:18,466]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 16:28:18] "POST /rentPhoneReport HTTP/1.1" 500 -
+[2018-04-07 16:30:06,947]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 16:30:14,078]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 16:30:14,209]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 16:30:14,288]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 16:30:16,081]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 16:30:16] "POST /rentPhoneReport HTTP/1.1" 500 -
+[2018-04-07 16:35:55,526]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 16:35:58,778]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 16:35:58,816]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 16:35:58,842]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 16:47:21,401]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 16:47:23,746]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 16:47:23,773]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 16:47:23,785]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 16:47:25,132]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 16:47:25] "POST /rentPhoneReport HTTP/1.1" 200 -
+[2018-04-07 16:48:30,786]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 16:48:30] "POST /rentPhoneReport HTTP/1.1" 200 -
+[2018-04-07 16:48:33,934]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 16:48:33] "POST /rentPhoneReport HTTP/1.1" 500 -
+[2018-04-07 16:49:05,045]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 16:49:07,473]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 16:49:07,506]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 16:49:07,519]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 16:49:13,165]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 16:49:13] "POST /rentPhoneReport HTTP/1.1" 200 -
+[2018-04-07 16:49:52,196]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 16:49:52] "GET /admin/RentLogView/ HTTP/1.1" 200 -
+[2018-04-07 16:51:31,128]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 16:51:33,657]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 16:51:33,684]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 16:51:33,697]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 16:51:37,890]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 16:51:37] "POST /rentPhoneReport HTTP/1.1" 200 -
+[2018-04-07 16:51:39,586]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 16:51:39] "POST /rentPhoneReport HTTP/1.1" 200 -
+[2018-04-07 16:51:45,719]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 16:51:45] "GET /admin/RentLogView/ HTTP/1.1" 200 -
+[2018-04-07 16:51:52,982]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 16:51:52] "POST /admin/RentLogView/delete/ HTTP/1.1" 302 -
+[2018-04-07 16:51:53,177]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 16:51:53] "GET /admin/RentLogView/ HTTP/1.1" 200 -
+[2018-04-07 16:51:53,838]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 16:51:53] "GET /admin/DevicesView/ HTTP/1.1" 200 -
+[2018-04-07 16:51:59,961]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 16:51:59] "GET /admin/DevicesView/edit/?url=%2Fadmin%2FDevicesView%2F&id=866933010584246 HTTP/1.1" 200 -
+[2018-04-07 16:52:22,496]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 16:52:22] "POST /admin/DevicesView/edit/?url=%2Fadmin%2FDevicesView%2F&id=866933010584246 HTTP/1.1" 302 -
+[2018-04-07 16:52:22,773]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 16:52:22] "GET /admin/DevicesView/ HTTP/1.1" 200 -
+[2018-04-07 16:52:47,496]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 16:52:47] "GET /admin/DevicesView/new/?url=%2Fadmin%2FDevicesView%2F HTTP/1.1" 200 -
+[2018-04-07 16:52:49,766]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 16:52:49] "GET /admin/DevicesView/ HTTP/1.1" 200 -
+[2018-04-07 16:54:15,244]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 16:54:15] "GET /admin/Roles_UsersView/ HTTP/1.1" 200 -
+[2018-04-07 16:54:17,938]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 16:54:17] "GET /admin/UserView/ HTTP/1.1" 200 -
+[2018-04-07 16:54:22,121]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 16:54:22] "POST /admin/UserView/delete/ HTTP/1.1" 302 -
+[2018-04-07 16:54:22,516]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 16:54:22] "GET /admin/UserView/ HTTP/1.1" 200 -
+[2018-04-07 16:54:32,707]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 16:54:32] "GET /admin/RentLogView/ HTTP/1.1" 200 -
+[2018-04-07 16:54:49,855]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 16:54:49] "GET /admin/RentLogView/new/?url=%2Fadmin%2FRentLogView%2F HTTP/1.1" 200 -
+[2018-04-07 16:55:03,311]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 16:55:03] "POST /admin/RentLogView/new/?url=%2Fadmin%2FRentLogView%2F HTTP/1.1" 302 -
+[2018-04-07 16:55:03,423]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 16:55:03] "GET /admin/RentLogView/ HTTP/1.1" 200 -
+[2018-04-07 16:55:13,540]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 16:55:13] "GET /admin/RentLogView/new/?url=%2Fadmin%2FRentLogView%2F HTTP/1.1" 200 -
+[2018-04-07 16:55:20,200]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 16:55:20] "POST /admin/RentLogView/new/?url=%2Fadmin%2FRentLogView%2F HTTP/1.1" 302 -
+[2018-04-07 16:55:20,549]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 16:55:20] "GET /admin/RentLogView/ HTTP/1.1" 200 -
+[2018-04-07 16:55:23,354]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 16:55:23] "GET /admin/RentLogView/new/?url=%2Fadmin%2FRentLogView%2F HTTP/1.1" 200 -
+[2018-04-07 16:55:29,230]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 16:55:29] "POST /admin/RentLogView/new/?url=%2Fadmin%2FRentLogView%2F HTTP/1.1" 302 -
+[2018-04-07 16:55:29,542]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 16:55:29] "GET /admin/RentLogView/ HTTP/1.1" 200 -
+[2018-04-07 16:55:49,828]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 16:55:49] "GET /admin/RentLogView/ HTTP/1.1" 200 -
+[2018-04-07 16:55:54,667]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 16:55:54] "GET /admin/DevicesView/ HTTP/1.1" 200 -
+[2018-04-07 16:55:56,993]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 16:55:56] "GET /admin/RentLogView/ HTTP/1.1" 200 -
+[2018-04-07 16:56:55,335]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 16:56:55] "GET /admin/RentLogView/ HTTP/1.1" 200 -
+[2018-04-07 16:57:08,401]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 16:57:08] "GET /admin/RentLogView/?page=1 HTTP/1.1" 200 -
+[2018-04-07 16:57:26,888]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 16:57:26] "GET /admin/RentLogView/ HTTP/1.1" 200 -
+[2018-04-07 17:49:17,657]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 17:49:23,361]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 17:49:23,417]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 17:49:23,440]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 17:49:29,763]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:49:29] "GET /admin/Roles_UsersView/ HTTP/1.1" 200 -
+[2018-04-07 17:49:48,061]INFO | werkzeug:  * Detected change in 'D:\\projects\\github\\loginTest\\model\\roleUser.py', reloading
+[2018-04-07 17:49:48,180]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 17:50:19,407]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 17:50:26,101]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 17:50:26,187]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 17:50:26,224]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 17:50:43,762]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:50:43] "GET /admin/Roles_UsersView/ HTTP/1.1" 200 -
+[2018-04-07 17:50:56,421]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:50:56] "GET /admin/UserView/ HTTP/1.1" 200 -
+[2018-04-07 17:50:59,572]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:50:59] "GET /admin/RoleView/ HTTP/1.1" 200 -
+[2018-04-07 17:51:01,799]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:51:01] "GET /admin/Roles_UsersView/ HTTP/1.1" 200 -
+[2018-04-07 17:51:04,980]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:51:04] "GET /admin/Roles_UsersView/edit/?url=%2Fadmin%2FRoles_UsersView%2F&id=1 HTTP/1.1" 200 -
+[2018-04-07 17:51:09,441]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:51:09] "GET /admin/Roles_UsersView/ HTTP/1.1" 200 -
+[2018-04-07 17:51:14,174]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:51:14] "GET /admin/Roles_UsersView/new/?url=%2Fadmin%2FRoles_UsersView%2F HTTP/1.1" 200 -
+[2018-04-07 17:51:16,638]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:51:16] "GET /admin/Roles_UsersView/ HTTP/1.1" 200 -
+[2018-04-07 17:51:59,144]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 17:52:04,703]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 17:52:04,778]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 17:52:04,801]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 17:52:05,930]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:52:05] "GET /admin/Roles_UsersView/ HTTP/1.1" 200 -
+[2018-04-07 17:52:09,038]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:52:09] "GET /admin/Roles_UsersView/edit/?url=%2Fadmin%2FRoles_UsersView%2F&id=1&modal=True HTTP/1.1" 200 -
+[2018-04-07 17:52:10,283]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:52:10] "GET /admin/static/admin/js/bs2_modal.js?v=1.0.0&_=1523094726151 HTTP/1.1" 200 -
+[2018-04-07 17:52:20,747]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:52:20] "GET /admin/Roles_UsersView/new/?url=%2Fadmin%2FRoles_UsersView%2F&modal=True HTTP/1.1" 200 -
+[2018-04-07 17:52:20,865]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:52:20] "GET /admin/static/admin/js/bs2_modal.js?v=1.0.0&_=1523094726152 HTTP/1.1" 200 -
+[2018-04-07 17:52:24,177]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:52:24] "GET /admin/Roles_UsersView/new/?url=%2Fadmin%2FRoles_UsersView%2F&modal=True HTTP/1.1" 200 -
+[2018-04-07 17:52:24,338]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:52:24] "GET /admin/static/admin/js/bs2_modal.js?v=1.0.0&_=1523094726153 HTTP/1.1" 200 -
+[2018-04-07 17:52:48,243]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:52:48] "GET /admin/Roles_UsersView/ajax/lookup/?name=user&query=ra&offset=0&limit=10&_=1523094726154 HTTP/1.1" 200 -
+[2018-04-07 17:52:48,400]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:52:48] "GET /admin/Roles_UsersView/ajax/lookup/?name=user&query=rao&offset=0&limit=10&_=1523094726155 HTTP/1.1" 200 -
+[2018-04-07 17:52:48,802]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:52:48] "GET /admin/Roles_UsersView/ajax/lookup/?name=user&query=%E9%A5%B6&offset=0&limit=10&_=1523094726156 HTTP/1.1" 200 -
+[2018-04-07 17:52:56,691]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:52:56] "GET /admin/Roles_UsersView/ajax/lookup/?name=user&query=a&offset=0&limit=10&_=1523094726157 HTTP/1.1" 200 -
+[2018-04-07 17:52:56,875]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:52:56] "GET /admin/Roles_UsersView/ajax/lookup/?name=user&query=ad&offset=0&limit=10&_=1523094726158 HTTP/1.1" 200 -
+[2018-04-07 17:52:57,009]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:52:57] "GET /admin/Roles_UsersView/ajax/lookup/?name=user&query=adm&offset=0&limit=10&_=1523094726159 HTTP/1.1" 200 -
+[2018-04-07 17:52:57,262]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:52:57] "GET /admin/Roles_UsersView/ajax/lookup/?name=user&query=admin&offset=0&limit=10&_=1523094726160 HTTP/1.1" 200 -
+[2018-04-07 17:53:04,631]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:53:04] "GET /admin/Roles_UsersView/ajax/lookup/?name=user&query=d&offset=0&limit=10&_=1523094726161 HTTP/1.1" 200 -
+[2018-04-07 17:53:05,138]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:53:05] "GET /admin/Roles_UsersView/ajax/lookup/?name=user&query=a&offset=0&limit=10&_=1523094726162 HTTP/1.1" 200 -
+[2018-04-07 17:53:05,312]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:53:05] "GET /admin/Roles_UsersView/ajax/lookup/?name=user&query=ad&offset=0&limit=10&_=1523094726163 HTTP/1.1" 200 -
+[2018-04-07 17:53:05,532]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:53:05] "GET /admin/Roles_UsersView/ajax/lookup/?name=user&query=adm&offset=0&limit=10&_=1523094726164 HTTP/1.1" 200 -
+[2018-04-07 17:53:05,717]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:53:05] "GET /admin/Roles_UsersView/ajax/lookup/?name=user&query=admi&offset=0&limit=10&_=1523094726165 HTTP/1.1" 200 -
+[2018-04-07 17:53:05,858]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:53:05] "GET /admin/Roles_UsersView/ajax/lookup/?name=user&query=admin&offset=0&limit=10&_=1523094726166 HTTP/1.1" 200 -
+[2018-04-07 17:53:06,585]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:53:06] "GET /admin/Roles_UsersView/ajax/lookup/?name=user&query=admin%EF%BC%8C&offset=0&limit=10&_=1523094726167 HTTP/1.1" 200 -
+[2018-04-07 17:53:07,082]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:53:07] "GET /admin/Roles_UsersView/ajax/lookup/?name=user&query=admin%EF%BC%8Cra&offset=0&limit=10&_=1523094726168 HTTP/1.1" 200 -
+[2018-04-07 17:53:07,209]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:53:07] "GET /admin/Roles_UsersView/ajax/lookup/?name=user&query=admin%EF%BC%8Crao&offset=0&limit=10&_=1523094726169 HTTP/1.1" 200 -
+[2018-04-07 17:53:07,486]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:53:07] "GET /admin/Roles_UsersView/ajax/lookup/?name=user&query=admin%EF%BC%8Craoq&offset=0&limit=10&_=1523094726170 HTTP/1.1" 200 -
+[2018-04-07 17:53:07,632]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:53:07] "GET /admin/Roles_UsersView/ajax/lookup/?name=user&query=admin%EF%BC%8Craoqi&offset=0&limit=10&_=1523094726171 HTTP/1.1" 200 -
+[2018-04-07 17:53:07,996]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:53:07] "GET /admin/Roles_UsersView/ajax/lookup/?name=user&query=admin%EF%BC%8Craoqili&offset=0&limit=10&_=1523094726172 HTTP/1.1" 200 -
+[2018-04-07 17:53:08,390]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:53:08] "GET /admin/Roles_UsersView/ajax/lookup/?name=user&query=admin%EF%BC%8C%E6%89%B0%E5%99%A8%E9%87%8C&offset=0&limit=10&_=1523094726173 HTTP/1.1" 200 -
+[2018-04-07 17:53:09,124]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:53:09] "GET /admin/Roles_UsersView/ajax/lookup/?name=user&query=admin%EF%BC%8C%E6%89%B0%E5%99%A8&offset=0&limit=10&_=1523094726174 HTTP/1.1" 200 -
+[2018-04-07 17:53:09,313]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:53:09] "GET /admin/Roles_UsersView/ajax/lookup/?name=user&query=admin%EF%BC%8C%E6%89%B0&offset=0&limit=10&_=1523094726175 HTTP/1.1" 200 -
+[2018-04-07 17:53:09,451]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:53:09] "GET /admin/Roles_UsersView/ajax/lookup/?name=user&query=admin%EF%BC%8C&offset=0&limit=10&_=1523094726176 HTTP/1.1" 200 -
+[2018-04-07 17:53:09,676]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:53:09] "GET /admin/Roles_UsersView/ajax/lookup/?name=user&query=admin&offset=0&limit=10&_=1523094726177 HTTP/1.1" 200 -
+[2018-04-07 17:53:11,348]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:53:11] "GET /admin/Roles_UsersView/ajax/lookup/?name=user&query=admin%EF%BC%8C&offset=0&limit=10&_=1523094726178 HTTP/1.1" 200 -
+[2018-04-07 17:53:11,730]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:53:11] "GET /admin/Roles_UsersView/ajax/lookup/?name=user&query=admin%EF%BC%8Cr&offset=0&limit=10&_=1523094726179 HTTP/1.1" 200 -
+[2018-04-07 17:53:11,885]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:53:11] "GET /admin/Roles_UsersView/ajax/lookup/?name=user&query=admin%EF%BC%8Cra&offset=0&limit=10&_=1523094726180 HTTP/1.1" 200 -
+[2018-04-07 17:53:12,178]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:53:12] "GET /admin/Roles_UsersView/ajax/lookup/?name=user&query=admin%EF%BC%8Crao&offset=0&limit=10&_=1523094726181 HTTP/1.1" 200 -
+[2018-04-07 17:53:12,451]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:53:12] "GET /admin/Roles_UsersView/ajax/lookup/?name=user&query=admin%EF%BC%8Craoqi&offset=0&limit=10&_=1523094726182 HTTP/1.1" 200 -
+[2018-04-07 17:53:12,658]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:53:12] "GET /admin/Roles_UsersView/ajax/lookup/?name=user&query=admin%EF%BC%8Craoqil&offset=0&limit=10&_=1523094726183 HTTP/1.1" 200 -
+[2018-04-07 17:53:12,976]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:53:12] "GET /admin/Roles_UsersView/ajax/lookup/?name=user&query=admin%EF%BC%8Craoqili&offset=0&limit=10&_=1523094726184 HTTP/1.1" 200 -
+[2018-04-07 17:53:13,131]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:53:13] "GET /admin/Roles_UsersView/ajax/lookup/?name=user&query=admin%EF%BC%8Craoqilin&offset=0&limit=10&_=1523094726185 HTTP/1.1" 200 -
+[2018-04-07 17:53:13,384]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:53:13] "GET /admin/Roles_UsersView/ajax/lookup/?name=user&query=admin%EF%BC%8C%E9%A5%B6%E9%BA%92%E9%BA%9F&offset=0&limit=10&_=1523094726186 HTTP/1.1" 200 -
+[2018-04-07 17:53:34,915]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:53:34] "GET /admin/UserView/ HTTP/1.1" 200 -
+[2018-04-07 17:56:38,664]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 17:56:42,588]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 17:56:42,723]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 17:56:42,762]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 17:56:46,055]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:56:46] "GET /admin/RentLogView/ HTTP/1.1" 200 -
+[2018-04-07 17:56:48,963]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:56:48] "GET /admin/RentLogView/new/?url=%2Fadmin%2FRentLogView%2F HTTP/1.1" 200 -
+[2018-04-07 17:56:51,798]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:56:51] "GET /admin/RentLogView/ HTTP/1.1" 200 -
+[2018-04-07 17:56:54,484]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:56:54] "GET /admin/DevicesView/ HTTP/1.1" 200 -
+[2018-04-07 17:56:56,470]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:56:56] "GET /admin/DevicesView/new/?url=%2Fadmin%2FDevicesView%2F HTTP/1.1" 200 -
+[2018-04-07 17:56:58,844]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:56:58] "GET /admin/DevicesView/ HTTP/1.1" 200 -
+[2018-04-07 17:57:00,701]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:57:00] "GET /admin/Roles_UsersView/ HTTP/1.1" 200 -
+[2018-04-07 17:57:02,664]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:57:02] "GET /admin/Roles_UsersView/new/?url=%2Fadmin%2FRoles_UsersView%2F HTTP/1.1" 200 -
+[2018-04-07 17:57:06,592]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:57:06] "GET /admin/Roles_UsersView/ HTTP/1.1" 200 -
+[2018-04-07 17:58:12,006]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 17:58:14,112]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 17:58:14,141]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 17:58:14,154]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 17:58:33,910]INFO | werkzeug:  * Detected change in 'D:\\projects\\github\\loginTest\\model\\roleUser.py', reloading
+[2018-04-07 17:58:34,032]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 17:58:38,638]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 17:58:38,686]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 17:58:38,703]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 17:58:41,397]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:58:41] "GET /admin/DevicesView/ HTTP/1.1" 200 -
+[2018-04-07 17:58:44,176]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:58:44] "GET /admin/DevicesView/edit/?url=%2Fadmin%2FDevicesView%2F&id=866933010584246&modal=True HTTP/1.1" 200 -
+[2018-04-07 17:58:45,727]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:58:45] "GET /admin/static/admin/js/bs2_modal.js?v=1.0.0&_=1523095121662 HTTP/1.1" 200 -
+[2018-04-07 17:58:55,986]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:58:55] "GET /admin/RentLogView/ HTTP/1.1" 200 -
+[2018-04-07 17:58:59,808]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:58:59] "GET /admin/RentLogView/new/?url=%2Fadmin%2FRentLogView%2F&modal=True HTTP/1.1" 200 -
+[2018-04-07 17:58:59,904]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:58:59] "GET /admin/static/admin/js/bs2_modal.js?v=1.0.0&_=1523095136746 HTTP/1.1" 200 -
+[2018-04-07 17:59:17,637]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:59:17] "GET /admin/RentLogView/?sort=7 HTTP/1.1" 200 -
+[2018-04-07 17:59:20,256]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 17:59:20] "GET /admin/RentLogView/?sort=7&desc=1 HTTP/1.1" 200 -
+[2018-04-07 18:00:58,634]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 18:01:00,884]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 18:01:00,913]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 18:01:00,924]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 18:01:03,892]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:01:03] "GET /admin/DevicesView/ HTTP/1.1" 200 -
+[2018-04-07 18:01:06,105]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:01:06] "GET /admin/static/vendor/x-editable/css/bootstrap2-editable.css?v=1.5.1.1 HTTP/1.1" 200 -
+[2018-04-07 18:01:06,170]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:01:06] "GET /admin/static/vendor/x-editable/js/bootstrap2-editable.min.js?v=1.5.1.1 HTTP/1.1" 200 -
+[2018-04-07 18:01:10,165]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:01:10] "GET /admin/static/vendor/x-editable/img/loading.gif HTTP/1.1" 200 -
+[2018-04-07 18:01:10,223]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:01:10] "GET /admin/static/vendor/x-editable/img/clear.png HTTP/1.1" 200 -
+[2018-04-07 18:01:10,262]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:01:10] "GET /admin/static/bootstrap/bootstrap2/swatch/img/glyphicons-halflings-white.png HTTP/1.1" 200 -
+[2018-04-07 18:02:54,628]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 18:02:57,630]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 18:02:57,661]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 18:02:57,674]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 18:03:01,710]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:03:01] "GET /admin/DevicesView/ HTTP/1.1" 200 -
+[2018-04-07 18:03:16,368]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:03:16] "GET /admin/DevicesView/?search=%E5%B0%8F%E7%B1%B3 HTTP/1.1" 200 -
+[2018-04-07 18:03:35,818]INFO | werkzeug:  * Detected change in 'D:\\projects\\github\\loginTest\\model\\devicesView.py', reloading
+[2018-04-07 18:03:35,961]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 18:03:38,996]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 18:03:39,032]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 18:03:39,051]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 18:03:39,654]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:03:39] "GET /admin/DevicesView/?search=%E5%AD%97%E5%BA%93 HTTP/1.1" 200 -
+[2018-04-07 18:03:44,315]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:03:44] "GET /admin/DevicesView/?search=%E5%BA%93 HTTP/1.1" 200 -
+[2018-04-07 18:03:52,815]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 18:03:58,325]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 18:03:58,424]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 18:03:58,529]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 18:12:23,578]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:12:23] "GET /admin/DevicesView/ HTTP/1.1" 200 -
+[2018-04-07 18:12:23,717]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:12:23] "GET /admin/DevicesView/ HTTP/1.1" 200 -
+[2018-04-07 18:12:39,148]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:12:39] "GET /admin/DevicesView/?flt1_0=1 HTTP/1.1" 200 -
+[2018-04-07 18:15:43,148]INFO | werkzeug:  * Detected change in 'D:\\projects\\github\\loginTest\\model\\devicesView.py', reloading
+[2018-04-07 18:15:43,243]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 18:15:47,148]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 18:15:47,203]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 18:15:47,223]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 18:15:54,635]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 18:16:00,447]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 18:16:00,561]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 18:16:00,591]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 18:16:03,142]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:16:03] "GET /admin/RentLogView/ HTTP/1.1" 200 -
+[2018-04-07 18:16:19,043]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:16:19] "GET /admin/RentLogView/?flt1_0=123 HTTP/1.1" 200 -
+[2018-04-07 18:16:33,467]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:16:33] "GET /admin/RentLogView/?flt2_4=1 HTTP/1.1" 200 -
+[2018-04-07 18:16:58,424]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:16:58] "GET /admin/RentLogView/?flt3_24=&flt4_14=1&flt5_23= HTTP/1.1" 200 -
+[2018-04-07 18:17:03,670]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:17:03] "GET /admin/DevicesView/ HTTP/1.1" 200 -
+[2018-04-07 18:24:30,903]INFO | werkzeug:  * Detected change in 'D:\\projects\\github\\loginTest\\model\\MyBaseModelView.py', reloading
+[2018-04-07 18:24:31,028]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 18:24:36,516]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 18:24:36,601]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 18:24:36,619]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 18:24:39,296]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:24:39] "GET /admin/RentLogView/ HTTP/1.1" 200 -
+[2018-04-07 18:24:46,743]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:24:46] "GET /admin/RentLogView/export/csv/ HTTP/1.1" 200 -
+[2018-04-07 18:26:48,349]INFO | werkzeug:  * Detected change in 'D:\\projects\\github\\loginTest\\model\\MyBaseModelView.py', reloading
+[2018-04-07 18:26:48,493]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 18:26:52,137]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 18:26:54,395]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 18:26:54,437]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 18:26:54,450]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 18:26:58,951]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:26:58] "GET /admin/RentLogView/ HTTP/1.1" 200 -
+[2018-04-07 18:27:02,269]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:27:02] "GET /admin/RentLogView/export/xls/ HTTP/1.1" 302 -
+[2018-04-07 18:27:02,755]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:27:02] "GET /admin/RentLogView/ HTTP/1.1" 200 -
+[2018-04-07 18:27:20,062]INFO | werkzeug:  * Detected change in 'D:\\projects\\github\\loginTest\\model\\MyBaseModelView.py', reloading
+[2018-04-07 18:27:20,157]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 18:27:24,946]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 18:27:25,019]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 18:27:25,049]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 18:28:15,006]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 18:28:18,914]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 18:28:18,983]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 18:28:19,009]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 18:28:25,042]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:28:25] "GET /admin/RentLogView/export/xls/ HTTP/1.1" 302 -
+[2018-04-07 18:28:26,658]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:28:26] "GET /admin/RentLogView/ HTTP/1.1" 200 -
+[2018-04-07 18:28:31,315]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:28:31] "GET /admin/RentLogView/ HTTP/1.1" 200 -
+[2018-04-07 18:28:34,684]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:28:34] "GET /admin/RentLogView/export/csv/ HTTP/1.1" 200 -
+[2018-04-07 18:29:09,871]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:29:09] "GET /admin/RentLogView/?sort=7 HTTP/1.1" 200 -
+[2018-04-07 18:29:19,335]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:29:19] "POST /admin/RentLogView/delete/ HTTP/1.1" 302 -
+[2018-04-07 18:29:19,657]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:29:19] "GET /admin/RentLogView/?sort=7 HTTP/1.1" 200 -
+[2018-04-07 18:29:22,598]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:29:22] "POST /admin/RentLogView/delete/ HTTP/1.1" 302 -
+[2018-04-07 18:29:23,151]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:29:23] "GET /admin/RentLogView/?sort=7 HTTP/1.1" 200 -
+[2018-04-07 18:29:25,661]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:29:25] "POST /admin/RentLogView/delete/ HTTP/1.1" 302 -
+[2018-04-07 18:29:26,059]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:29:26] "GET /admin/RentLogView/?sort=7 HTTP/1.1" 200 -
+[2018-04-07 18:29:32,369]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:29:32] "GET /admin/RentLogView/new/?url=%2Fadmin%2FRentLogView%2F%3Fsort%3D7&modal=True HTTP/1.1" 200 -
+[2018-04-07 18:29:33,816]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:29:33] "GET /admin/static/admin/js/bs2_modal.js?v=1.0.0&_=1523096966435 HTTP/1.1" 200 -
+[2018-04-07 18:29:36,292]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:29:36] "GET /admin/RentLogView/?sort=7 HTTP/1.1" 200 -
+[2018-04-07 18:29:43,529]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:29:43] "GET /admin/RentLogView/ HTTP/1.1" 200 -
+[2018-04-07 18:33:33,990]INFO | werkzeug:  * Detected change in 'D:\\projects\\github\\loginTest\\model\\MyBaseModelView.py', reloading
+[2018-04-07 18:33:34,085]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 18:33:37,423]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 18:33:37,451]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 18:33:37,466]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 18:36:15,936]INFO | werkzeug:  * Detected change in 'D:\\projects\\github\\loginTest\\loginTest.py', reloading
+[2018-04-07 18:36:16,217]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 18:36:22,114]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 18:36:22,188]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 18:36:22,214]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 18:36:42,098]INFO | werkzeug:  * Detected change in 'D:\\projects\\github\\loginTest\\model\\LoginView.py', reloading
+[2018-04-07 18:36:42,220]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 18:36:46,937]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 18:36:46,989]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 18:36:47,009]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 18:36:51,128]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:36:51] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 18:36:54,585]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:36:54] "GET /admin/login/ HTTP/1.1" 500 -
+[2018-04-07 18:36:56,542]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:36:56] "GET /admin/login/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2018-04-07 18:36:56,549]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:36:56] "GET /admin/login/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[2018-04-07 18:36:56,569]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:36:56] "GET /admin/login/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2018-04-07 18:36:56,773]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:36:56] "GET /admin/login/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[2018-04-07 18:36:56,976]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:36:56] "GET /admin/login/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2018-04-07 18:36:57,178]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:36:57] "GET /admin/login/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2018-04-07 18:38:13,253]INFO | werkzeug:  * Detected change in 'D:\\projects\\github\\loginTest\\model\\LoginView.py', reloading
+[2018-04-07 18:38:13,359]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 18:38:17,381]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 18:38:17,431]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 18:38:17,447]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 18:38:27,026]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:38:27] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 18:38:30,255]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:38:30] "GET /admin/login/ HTTP/1.1" 200 -
+[2018-04-07 18:38:30,752]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:38:30] "GET /admin/login/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-07 18:38:38,344]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:38:38] "POST /admin/login/ HTTP/1.1" 405 -
+[2018-04-07 18:39:58,674]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:39:58] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 18:40:00,907]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:40:00] "GET /admin/login/ HTTP/1.1" 200 -
+[2018-04-07 18:40:01,249]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:40:01] "GET /admin/login/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-07 18:40:02,963]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:40:02] "POST /admin/login/url_for(%22login%22) HTTP/1.1" 404 -
+[2018-04-07 18:40:24,976]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:40:24] "GET /admin/login/ HTTP/1.1" 200 -
+[2018-04-07 18:40:25,641]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:40:25] "GET /admin/login/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-07 18:40:27,808]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:40:27] "POST /admin/login/login.html HTTP/1.1" 404 -
+[2018-04-07 18:40:42,075]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:40:42] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 18:40:43,888]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:40:43] "GET /admin/login/ HTTP/1.1" 200 -
+[2018-04-07 18:40:44,177]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:40:44] "GET /admin/login/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-07 18:40:46,022]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:40:46] "POST /admin/login/login HTTP/1.1" 404 -
+[2018-04-07 18:42:54,171]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:42:54] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 18:42:56,579]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:42:56] "GET /admin/login/ HTTP/1.1" 200 -
+[2018-04-07 18:42:57,035]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:42:57] "GET /admin/login/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-07 18:42:58,338]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:42:58] "POST /admin/login/login HTTP/1.1" 404 -
+[2018-04-07 18:43:34,232]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:43:34] "GET /admin/login/ HTTP/1.1" 200 -
+[2018-04-07 18:43:35,029]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:43:35] "GET /admin/login/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-07 18:45:04,138]INFO | werkzeug:  * Detected change in 'D:\\projects\\github\\loginTest\\model\\LoginView.py', reloading
+[2018-04-07 18:45:04,365]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 18:45:10,522]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 18:45:10,582]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 18:45:10,604]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 18:45:24,441]INFO | werkzeug:  * Detected change in 'D:\\projects\\github\\loginTest\\model\\LoginView.py', reloading
+[2018-04-07 18:45:24,717]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 18:45:28,352]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 18:45:28,388]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 18:45:28,405]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 18:47:43,868]INFO | werkzeug:  * Detected change in 'D:\\projects\\github\\loginTest\\model\\LoginView.py', reloading
+[2018-04-07 18:47:44,003]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 18:48:02,005]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 18:48:06,844]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 18:48:06,894]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 18:48:06,926]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 18:48:10,046]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:48:10] "POST /admin/login/login HTTP/1.1" 404 -
+[2018-04-07 18:48:52,216]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:48:52] "GET /admin/login HTTP/1.1" 301 -
+[2018-04-07 18:48:52,943]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:48:52] "GET /admin/login/ HTTP/1.1" 500 -
+[2018-04-07 18:48:54,648]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:48:54] "GET /admin/login/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2018-04-07 18:48:54,658]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:48:54] "GET /admin/login/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[2018-04-07 18:48:54,674]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:48:54] "GET /admin/login/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2018-04-07 18:48:54,806]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:48:54] "GET /admin/login/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[2018-04-07 18:48:54,954]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:48:54] "GET /admin/login/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2018-04-07 18:49:05,361]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:49:05] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 18:49:07,121]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:49:07] "GET /admin/login/ HTTP/1.1" 500 -
+[2018-04-07 18:49:07,223]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:49:07] "GET /admin/login/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2018-04-07 18:49:07,234]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:49:07] "GET /admin/login/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[2018-04-07 18:49:07,255]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:49:07] "GET /admin/login/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2018-04-07 18:49:07,450]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:49:07] "GET /admin/login/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[2018-04-07 18:49:07,806]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:49:07] "GET /admin/login/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2018-04-07 18:49:50,144]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:49:50] "GET /admin/login/ HTTP/1.1" 200 -
+[2018-04-07 18:49:50,813]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:49:50] "GET /admin/login/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-07 18:49:56,864]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:49:56] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 18:49:59,191]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:49:59] "GET /admin/login/ HTTP/1.1" 200 -
+[2018-04-07 18:49:59,670]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:49:59] "GET /admin/login/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-07 18:50:18,273]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:50:18] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 18:50:48,861]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 18:50:53,842]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 18:50:53,918]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 18:50:53,970]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 18:50:58,164]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:50:58] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 18:50:59,598]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:50:59] "GET /admin/login/ HTTP/1.1" 200 -
+[2018-04-07 18:51:00,598]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:51:00] "GET /admin/login/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-07 18:51:05,105]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:51:05] "POST /admin/login/login HTTP/1.1" 404 -
+[2018-04-07 18:51:17,793]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:51:17] "GET /admin/login/ HTTP/1.1" 200 -
+[2018-04-07 18:51:18,684]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:51:18] "GET /admin/login/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-07 18:54:48,174]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 18:54:53,246]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 18:54:53,378]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 18:54:53,424]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 18:54:55,516]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:54:55] "GET /admin/login/ HTTP/1.1" 200 -
+[2018-04-07 18:54:56,016]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:54:56] "GET /admin/login/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-07 18:54:59,721]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:54:59] "POST /admin/login/login HTTP/1.1" 404 -
+[2018-04-07 18:56:04,599]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:56:04] "GET /admin/login/ HTTP/1.1" 200 -
+[2018-04-07 18:56:05,454]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:56:05] "GET /admin/login/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-07 18:56:08,595]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:56:08] "POST /admin/login/ HTTP/1.1" 500 -
+[2018-04-07 18:56:10,696]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:56:10] "GET /admin/login/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2018-04-07 18:56:10,700]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:56:10] "GET /admin/login/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[2018-04-07 18:56:10,717]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:56:10] "GET /admin/login/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2018-04-07 18:56:10,846]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:56:10] "GET /admin/login/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[2018-04-07 18:56:11,003]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:56:11] "GET /admin/login/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2018-04-07 18:57:23,352]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 18:57:27,805]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 18:57:27,851]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 18:57:27,874]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 18:57:33,513]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:57:33] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 18:57:35,223]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:57:35] "GET /admin/login/ HTTP/1.1" 200 -
+[2018-04-07 18:57:36,779]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:57:36] "GET /admin/login/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-07 18:57:39,684]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:57:39] "POST /admin/login/ HTTP/1.1" 500 -
+[2018-04-07 18:57:41,819]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:57:41] "GET /admin/login/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2018-04-07 18:57:41,825]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:57:41] "GET /admin/login/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[2018-04-07 18:57:41,841]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:57:41] "GET /admin/login/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2018-04-07 18:57:41,986]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:57:41] "GET /admin/login/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[2018-04-07 18:57:42,209]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:57:42] "GET /admin/login/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2018-04-07 18:58:50,973]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 18:58:53,519]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 18:58:53,548]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 18:58:53,556]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 18:59:00,687]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:59:00] "GET /admin/login/ HTTP/1.1" 200 -
+[2018-04-07 18:59:02,002]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:59:02] "GET /admin/login/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-07 18:59:05,321]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:59:05] "POST /admin/login/ HTTP/1.1" 500 -
+[2018-04-07 18:59:07,003]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:59:07] "GET /admin/login/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2018-04-07 18:59:07,007]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:59:07] "GET /admin/login/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[2018-04-07 18:59:07,029]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:59:07] "GET /admin/login/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2018-04-07 18:59:07,177]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:59:07] "GET /admin/login/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[2018-04-07 18:59:07,433]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 18:59:07] "GET /admin/login/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2018-04-07 19:00:50,546]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 19:00:54,584]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 19:00:54,729]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 19:00:54,832]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 19:01:01,941]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:01:01] "GET /admin/login/ HTTP/1.1" 200 -
+[2018-04-07 19:01:02,584]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:01:02] "GET /admin/login/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-07 19:01:05,678]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:01:05] "POST /admin/login/ HTTP/1.1" 500 -
+[2018-04-07 19:01:07,463]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:01:07] "GET /admin/login/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2018-04-07 19:01:07,473]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:01:07] "GET /admin/login/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[2018-04-07 19:01:07,489]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:01:07] "GET /admin/login/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2018-04-07 19:01:07,642]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:01:07] "GET /admin/login/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[2018-04-07 19:01:07,792]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:01:07] "GET /admin/login/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2018-04-07 19:02:08,374]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:02:08] "GET /admin/login/ HTTP/1.1" 200 -
+[2018-04-07 19:02:08,680]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:02:08] "GET /admin/login/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-07 19:02:14,986]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:02:14] "POST /index HTTP/1.1" 404 -
+[2018-04-07 19:02:37,858]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:02:37] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 19:02:39,631]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:02:39] "GET /admin/login/ HTTP/1.1" 200 -
+[2018-04-07 19:02:40,474]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:02:40] "GET /admin/login/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-07 19:02:45,746]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:02:45] "POST /login HTTP/1.1" 500 -
+[2018-04-07 19:03:40,536]INFO | werkzeug:  * Detected change in 'D:\\projects\\github\\loginTest\\api\\common.py', reloading
+[2018-04-07 19:03:40,802]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 19:03:45,690]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 19:03:45,799]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 19:03:45,851]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 19:03:59,003]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:03:59] "GET /login HTTP/1.1" 301 -
+[2018-04-07 19:03:59,315]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:03:59] "GET /login/ HTTP/1.1" 500 -
+[2018-04-07 19:04:00,492]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:04:00] "GET /login/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2018-04-07 19:04:00,496]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:04:00] "GET /login/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[2018-04-07 19:04:00,513]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:04:00] "GET /login/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2018-04-07 19:04:00,627]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:04:00] "GET /login/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[2018-04-07 19:04:00,755]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:04:00] "GET /login/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2018-04-07 19:04:00,936]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:04:00] "GET /login/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2018-04-07 19:05:46,454]INFO | werkzeug:  * Detected change in 'D:\\projects\\github\\loginTest\\api\\common.py', reloading
+[2018-04-07 19:05:46,858]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 19:05:51,891]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 19:05:52,020]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 19:05:52,053]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 19:06:06,844]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:06:06] "GET /login/ HTTP/1.1" 302 -
+[2018-04-07 19:06:07,219]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:06:07] "GET /admin/login/ HTTP/1.1" 200 -
+[2018-04-07 19:06:08,148]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:06:08] "GET /admin/login/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-07 19:06:11,967]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:06:11] "POST /login/ HTTP/1.1" 302 -
+[2018-04-07 19:06:12,025]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:06:12] "GET / HTTP/1.1" 302 -
+[2018-04-07 19:06:12,927]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:06:12] "GET /admin/DevicesView/ HTTP/1.1" 200 -
+[2018-04-07 19:06:33,832]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:06:33] "GET /admin/login/ HTTP/1.1" 200 -
+[2018-04-07 19:06:35,055]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:06:35] "GET /admin/login/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-07 19:06:51,417]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:06:51] "POST /login/ HTTP/1.1" 302 -
+[2018-04-07 19:06:51,519]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:06:51] "GET / HTTP/1.1" 302 -
+[2018-04-07 19:06:51,759]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:06:51] "GET /admin/DevicesView/ HTTP/1.1" 200 -
+[2018-04-07 19:07:15,736]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:07:15] "GET /admin/login/ HTTP/1.1" 200 -
+[2018-04-07 19:07:16,602]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:07:16] "GET /admin/login/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-07 19:10:37,121]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 19:10:39,194]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 19:10:39,221]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 19:10:39,246]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 19:10:42,681]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:10:42] "GET /admin/ HTTP/1.1" 500 -
+[2018-04-07 19:10:45,048]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:10:45] "GET /admin/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2018-04-07 19:10:45,055]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:10:45] "GET /admin/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[2018-04-07 19:10:45,086]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:10:45] "GET /admin/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2018-04-07 19:10:45,260]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:10:45] "GET /admin/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[2018-04-07 19:10:45,539]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:10:45] "GET /admin/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2018-04-07 19:11:20,704]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 19:11:26,105]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 19:11:26,151]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 19:11:26,183]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 19:11:38,072]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:11:38] "GET /admin/ HTTP/1.1" 500 -
+[2018-04-07 19:11:39,065]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:11:39] "GET /admin/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2018-04-07 19:11:39,069]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:11:39] "GET /admin/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[2018-04-07 19:11:39,078]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:11:39] "GET /admin/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2018-04-07 19:11:39,187]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:11:39] "GET /admin/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[2018-04-07 19:11:40,726]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:11:40] "GET /admin/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2018-04-07 19:11:46,368]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:11:46] "GET / HTTP/1.1" 302 -
+[2018-04-07 19:11:48,752]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:11:48] "GET /admin/DevicesView/ HTTP/1.1" 500 -
+[2018-04-07 19:11:49,039]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:11:49] "GET /admin/DevicesView/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2018-04-07 19:11:49,048]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:11:49] "GET /admin/DevicesView/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[2018-04-07 19:11:49,081]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:11:49] "GET /admin/DevicesView/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2018-04-07 19:11:49,361]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:11:49] "GET /admin/DevicesView/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[2018-04-07 19:11:51,164]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:11:51] "GET /admin/DevicesView/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2018-04-07 19:12:15,756]INFO | werkzeug:  * To enable the debugger you need to enter the security pin:
+[2018-04-07 19:12:15,756]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 19:12:15,757]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:12:15] "GET /admin/DevicesView/?__debugger__=yes&cmd=printpin&s=yrHImi6tmpGRcxJGvXQa HTTP/1.1" 200 -
+[2018-04-07 19:12:24,262]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:12:24] "GET /admin/DevicesView/?__debugger__=yes&cmd=pinauth&pin=&s=yrHImi6tmpGRcxJGvXQa HTTP/1.1" 200 -
+[2018-04-07 19:16:01,216]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 19:16:04,096]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 19:16:04,125]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 19:16:04,141]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 19:16:08,834]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:16:08] "GET /admin/ HTTP/1.1" 500 -
+[2018-04-07 19:16:10,496]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:16:10] "GET /admin/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2018-04-07 19:16:10,509]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:16:10] "GET /admin/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[2018-04-07 19:16:10,523]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:16:10] "GET /admin/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2018-04-07 19:16:10,648]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:16:10] "GET /admin/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[2018-04-07 19:16:12,391]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:16:12] "GET /admin/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2018-04-07 19:16:46,898]INFO | werkzeug:  * Detected change in 'D:\\projects\\github\\loginTest\\model\\LoginView.py', reloading
+[2018-04-07 19:16:47,177]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 19:16:52,938]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 19:16:55,325]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 19:16:55,354]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 19:16:55,365]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 19:16:58,599]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:16:58] "GET /admin/ HTTP/1.1" 500 -
+[2018-04-07 19:17:00,033]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:17:00] "GET /admin/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2018-04-07 19:17:00,038]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:17:00] "GET /admin/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[2018-04-07 19:17:00,052]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:17:00] "GET /admin/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2018-04-07 19:17:00,200]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:17:00] "GET /admin/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[2018-04-07 19:17:01,871]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:17:01] "GET /admin/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2018-04-07 19:17:32,709]INFO | werkzeug:  * Detected change in 'D:\\projects\\github\\loginTest\\loginTest.py', reloading
+[2018-04-07 19:17:32,891]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 19:17:41,244]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 19:17:44,342]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 19:17:44,371]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 19:17:44,384]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 19:17:48,015]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:17:48] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 19:17:51,703]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:17:51] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 19:19:45,217]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 19:19:49,118]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 19:19:49,269]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 19:19:49,332]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 19:19:53,641]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:19:53] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 19:19:55,793]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:19:55] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 19:19:58,602]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:19:58] "GET / HTTP/1.1" 302 -
+[2018-04-07 19:19:59,634]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:19:59] "GET /admin/DevicesView/ HTTP/1.1" 200 -
+[2018-04-07 19:20:03,759]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:20:03] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 19:20:05,877]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:20:05] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 19:20:07,572]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:20:07] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 19:20:08,404]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:20:08] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 19:21:54,380]INFO | werkzeug:  * Detected change in 'D:\\projects\\github\\loginTest\\model\\LoginView.py', reloading
+[2018-04-07 19:21:54,615]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 19:21:59,220]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 19:21:59,256]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 19:21:59,270]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 19:22:10,779]INFO | werkzeug:  * Detected change in 'D:\\projects\\github\\loginTest\\model\\LoginView.py', reloading
+[2018-04-07 19:22:10,871]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 19:22:14,678]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 19:22:17,108]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 19:22:17,137]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 19:22:17,148]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 19:22:32,362]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:22:32] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 19:22:57,196]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:22:57] "GET /admin/index HTTP/1.1" 404 -
+[2018-04-07 19:23:19,506]INFO | werkzeug:  * Detected change in 'D:\\projects\\github\\loginTest\\model\\LoginView.py', reloading
+[2018-04-07 19:23:19,631]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 19:23:25,490]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 19:23:25,532]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 19:23:25,549]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 19:23:25,947]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:23:25] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 19:23:30,960]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:23:30] "GET /admin/idnex HTTP/1.1" 404 -
+[2018-04-07 19:23:34,092]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:23:34] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 19:27:25,176]INFO | werkzeug:  * Detected change in 'D:\\projects\\github\\loginTest\\init.py', reloading
+[2018-04-07 19:27:25,459]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 19:27:29,848]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 19:27:29,885]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 19:27:29,901]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 19:27:41,983]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 19:27:46,950]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 19:27:46,999]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 19:27:47,016]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 19:27:47,375]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:27:47] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 19:27:53,957]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:27:53] "GET /admin/RentLogView/ HTTP/1.1" 200 -
+[2018-04-07 19:28:04,301]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:28:04] "GET /admin/RentLogView/export/csv/ HTTP/1.1" 200 -
+[2018-04-07 19:28:10,059]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:28:10] "GET /admin/UserView/ HTTP/1.1" 200 -
+[2018-04-07 19:28:13,799]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:28:13] "GET /admin/Roles_UsersView/ HTTP/1.1" 200 -
+[2018-04-07 19:28:17,062]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:28:17] "GET /admin/RoleView/ HTTP/1.1" 200 -
+[2018-04-07 19:28:22,908]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:28:22] "GET /admin/DevicesView/ HTTP/1.1" 200 -
+[2018-04-07 19:28:31,403]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:28:31] "GET /admin/RentLogView/ HTTP/1.1" 200 -
+[2018-04-07 19:28:47,174]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:28:47] "GET /admin/RentLogView/?flt2_27=1 HTTP/1.1" 200 -
+[2018-04-07 19:28:54,993]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:28:54] "GET /admin/RentLogView/?sort=8&flt0_27=1 HTTP/1.1" 200 -
+[2018-04-07 19:28:59,838]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:28:59] "GET /admin/RentLogView/?sort=8&flt0_27=1&desc=1 HTTP/1.1" 200 -
+[2018-04-07 19:29:33,368]INFO | werkzeug:  * Detected change in 'D:\\projects\\github\\loginTest\\model\\rentLogView.py', reloading
+[2018-04-07 19:29:33,493]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 19:29:37,686]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 19:29:37,716]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 19:29:37,730]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 19:29:38,476]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:29:38] "GET /admin/RentLogView/?sort=8&flt0_27=1&desc=1 HTTP/1.1" 200 -
+[2018-04-07 19:30:00,161]INFO | werkzeug:  * Detected change in 'D:\\projects\\github\\loginTest\\model\\rentLogView.py', reloading
+[2018-04-07 19:30:00,315]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 19:30:04,131]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 19:30:04,171]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 19:30:04,187]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 19:30:04,913]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:30:04] "GET /admin/RentLogView/?sort=8&flt0_27=1&desc=1 HTTP/1.1" 200 -
+[2018-04-07 19:30:08,295]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:30:08] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 19:31:06,756]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:31:06] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 19:31:09,194]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:31:09] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 19:31:10,809]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:31:10] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 19:31:12,461]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:31:12] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 19:31:15,104]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:31:15] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 19:31:16,907]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:31:16] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 19:31:46,398]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:31:46] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 19:31:47,798]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:31:47] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 19:31:49,121]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:31:49] "GET /admin/static/bootstrap/bootstrap2/swatch/default/bootstrap.min.css?v=2.3.2 HTTP/1.1" 304 -
+[2018-04-07 19:31:49,216]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:31:49] "GET /admin/static/bootstrap/bootstrap2/css/bootstrap-responsive.css?v=2.3.2 HTTP/1.1" 304 -
+[2018-04-07 19:31:49,257]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:31:49] "GET /admin/static/admin/css/bootstrap2/admin.css?v=1.1.1 HTTP/1.1" 304 -
+[2018-04-07 19:31:49,309]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:31:49] "GET /admin/static/vendor/moment.min.js?v=2.9.0 HTTP/1.1" 304 -
+[2018-04-07 19:31:49,346]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:31:49] "GET /admin/static/bootstrap/bootstrap2/js/bootstrap.min.js?v=2.3.2 HTTP/1.1" 304 -
+[2018-04-07 19:31:49,377]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:31:49] "GET /admin/static/vendor/jquery.min.js?v=2.1.4 HTTP/1.1" 304 -
+[2018-04-07 19:31:49,408]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:31:49] "GET /admin/static/vendor/select2/select2.min.js?v=3.5.2 HTTP/1.1" 304 -
+[2018-04-07 19:32:00,101]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:32:00] "GET /admin/RentLogView/ HTTP/1.1" 200 -
+[2018-04-07 19:32:03,338]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:32:03] "GET /admin/DevicesView/ HTTP/1.1" 200 -
+[2018-04-07 19:32:05,082]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:32:05] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 19:32:07,117]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:32:07] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 19:33:51,894]INFO | werkzeug:  * Detected change in 'D:\\projects\\github\\loginTest\\loginTest.py', reloading
+[2018-04-07 19:33:51,994]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 19:33:55,450]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 19:33:55,483]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 19:33:55,496]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 19:34:00,551]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:34:00] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 19:34:04,589]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:34:04] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 19:34:36,930]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:34:36] "GET /admin/ HTTP/1.1" 500 -
+[2018-04-07 19:34:37,974]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:34:37] "GET /admin/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2018-04-07 19:34:37,980]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:34:37] "GET /admin/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[2018-04-07 19:34:38,000]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:34:38] "GET /admin/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2018-04-07 19:34:38,102]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:34:38] "GET /admin/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[2018-04-07 19:34:38,250]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:34:38] "GET /admin/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2018-04-07 19:34:54,923]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:34:54] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 19:36:40,885]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:36:40] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 19:36:41,256]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:36:41] "GET /admin/img/a.ico HTTP/1.1" 404 -
+[2018-04-07 19:38:11,154]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:38:11] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 19:38:11,558]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:38:11] "GET /admin/img/a.ico HTTP/1.1" 404 -
+[2018-04-07 19:38:26,117]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:38:26] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 19:38:26,914]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:38:26] "GET /admin/img/a.ico HTTP/1.1" 404 -
+[2018-04-07 19:39:01,388]INFO | werkzeug:  * Detected change in 'D:\\projects\\github\\loginTest\\loginTest.py', reloading
+[2018-04-07 19:39:01,755]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 19:39:05,631]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 19:39:05,660]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 19:39:05,673]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 19:39:07,742]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:39:07] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 19:39:08,414]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:39:08] "GET /admin/img/a.ico HTTP/1.1" 404 -
+[2018-04-07 19:43:53,868]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:43:53] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 19:43:54,655]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:43:54] "GET /admin/img/a.ico HTTP/1.1" 404 -
+[2018-04-07 19:44:16,269]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:44:16] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 19:44:32,059]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:44:32] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 19:45:30,382]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:45:30] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 19:45:30,747]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:45:30] "GET /admin/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-07 19:46:18,924]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:46:18] "POST /login/ HTTP/1.1" 302 -
+[2018-04-07 19:46:18,973]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:46:18] "GET / HTTP/1.1" 302 -
+[2018-04-07 19:46:19,792]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:46:19] "GET /admin/DevicesView/ HTTP/1.1" 200 -
+[2018-04-07 19:46:22,493]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:46:22] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 19:46:23,401]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:46:23] "GET /admin/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-07 19:46:47,813]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:46:47] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 19:46:48,388]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:46:48] "GET /admin/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-07 19:46:56,555]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:46:56] "GET /admin/RentLogView/ HTTP/1.1" 200 -
+[2018-04-07 19:46:58,927]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:46:58] "GET /admin/DevicesView/ HTTP/1.1" 200 -
+[2018-04-07 19:47:01,575]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:47:01] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 19:47:02,262]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:47:02] "GET /admin/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-07 19:51:36,151]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:51:36] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 19:54:28,013]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:54:28] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 19:54:28,963]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:54:28] "GET /admin/img/a.ico HTTP/1.1" 404 -
+[2018-04-07 19:54:36,812]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 19:54:36] "GET /logout/ HTTP/1.1" 200 -
+[2018-04-07 19:58:36,654]INFO | werkzeug:  * Detected change in 'D:\\projects\\github\\loginTest\\loginTest.py', reloading
+[2018-04-07 19:58:36,819]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 20:00:21,987]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 20:00:27,424]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 20:00:27,484]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 20:00:27,509]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 20:00:30,667]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:00:30] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 20:00:31,157]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:00:31] "GET /admin/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-07 20:00:36,447]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:00:36] "POST /login/ HTTP/1.1" 302 -
+[2018-04-07 20:00:36,530]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:00:36] "GET / HTTP/1.1" 302 -
+[2018-04-07 20:00:37,517]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:00:37] "GET /admin/DevicesView/ HTTP/1.1" 200 -
+[2018-04-07 20:00:41,316]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:00:41] "GET /admin/logout/ HTTP/1.1" 500 -
+[2018-04-07 20:00:42,825]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:00:42] "GET /admin/logout/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2018-04-07 20:00:42,832]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:00:42] "GET /admin/logout/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[2018-04-07 20:00:42,845]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:00:42] "GET /admin/logout/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2018-04-07 20:00:42,938]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:00:42] "GET /admin/logout/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[2018-04-07 20:00:43,118]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:00:43] "GET /admin/logout/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2018-04-07 20:00:43,358]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:00:43] "GET /admin/logout/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2018-04-07 20:01:00,815]INFO | werkzeug:  * Detected change in 'D:\\projects\\github\\loginTest\\model\\LogoutView.py', reloading
+[2018-04-07 20:01:00,997]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 20:01:05,463]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 20:01:05,492]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 20:01:05,503]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 20:01:05,762]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:01:05] "GET /admin/logout/ HTTP/1.1" 500 -
+[2018-04-07 20:01:06,335]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:01:06] "GET /admin/logout/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2018-04-07 20:01:06,338]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:01:06] "GET /admin/logout/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[2018-04-07 20:01:06,348]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:01:06] "GET /admin/logout/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2018-04-07 20:01:06,401]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:01:06] "GET /admin/logout/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[2018-04-07 20:01:06,482]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:01:06] "GET /admin/logout/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2018-04-07 20:02:21,358]INFO | werkzeug:  * Detected change in 'D:\\projects\\github\\loginTest\\model\\LogoutView.py', reloading
+[2018-04-07 20:02:21,548]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 20:02:27,365]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 20:02:27,427]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 20:02:27,453]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 20:02:31,322]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:02:31] "GET /admin/logout/ HTTP/1.1" 500 -
+[2018-04-07 20:02:32,947]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:02:32] "GET /admin/logout/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2018-04-07 20:02:32,954]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:02:32] "GET /admin/logout/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[2018-04-07 20:02:32,977]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:02:32] "GET /admin/logout/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2018-04-07 20:02:33,104]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:02:33] "GET /admin/logout/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[2018-04-07 20:02:33,167]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:02:33] "GET /admin/logout/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2018-04-07 20:02:44,032]INFO | werkzeug:  * Detected change in 'D:\\projects\\github\\loginTest\\model\\LogoutView.py', reloading
+[2018-04-07 20:02:44,157]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 20:02:48,828]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 20:02:48,871]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 20:02:48,888]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 20:02:49,078]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:02:49] "GET /admin/logout/ HTTP/1.1" 500 -
+[2018-04-07 20:02:50,209]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:02:50] "GET /admin/logout/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2018-04-07 20:02:50,211]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:02:50] "GET /admin/logout/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[2018-04-07 20:02:50,226]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:02:50] "GET /admin/logout/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2018-04-07 20:02:50,295]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:02:50] "GET /admin/logout/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[2018-04-07 20:02:50,403]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:02:50] "GET /admin/logout/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2018-04-07 20:03:29,773]INFO | werkzeug:  * Detected change in 'D:\\projects\\github\\loginTest\\model\\LogoutView.py', reloading
+[2018-04-07 20:03:29,960]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 20:03:34,532]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 20:03:34,571]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 20:03:34,588]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 20:03:34,765]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:03:34] "GET /admin/logout/ HTTP/1.1" 500 -
+[2018-04-07 20:03:35,473]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:03:35] "GET /admin/logout/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2018-04-07 20:03:35,476]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:03:35] "GET /admin/logout/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[2018-04-07 20:03:35,489]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:03:35] "GET /admin/logout/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2018-04-07 20:03:35,553]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:03:35] "GET /admin/logout/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[2018-04-07 20:03:35,584]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:03:35] "GET /admin/logout/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2018-04-07 20:03:42,200]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 20:03:44,716]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 20:03:44,750]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 20:03:44,762]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 20:03:47,517]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:03:47] "GET /admin/logout/ HTTP/1.1" 500 -
+[2018-04-07 20:03:48,839]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:03:48] "GET /admin/logout/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2018-04-07 20:03:48,846]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:03:48] "GET /admin/logout/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[2018-04-07 20:03:48,859]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:03:48] "GET /admin/logout/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2018-04-07 20:03:48,951]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:03:48] "GET /admin/logout/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[2018-04-07 20:03:48,986]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:03:48] "GET /admin/logout/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2018-04-07 20:04:21,283]INFO | werkzeug:  * Detected change in 'D:\\projects\\github\\loginTest\\loginTest.py', reloading
+[2018-04-07 20:04:21,532]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 20:04:26,250]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 20:04:28,332]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 20:04:28,361]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 20:04:28,371]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 20:04:30,930]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:04:30] "GET /admin/logout/ HTTP/1.1" 500 -
+[2018-04-07 20:04:32,071]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:04:32] "GET /admin/logout/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2018-04-07 20:04:32,076]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:04:32] "GET /admin/logout/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[2018-04-07 20:04:32,091]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:04:32] "GET /admin/logout/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2018-04-07 20:04:32,167]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:04:32] "GET /admin/logout/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[2018-04-07 20:04:32,275]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:04:32] "GET /admin/logout/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2018-04-07 20:05:04,115]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 20:05:06,806]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 20:05:06,844]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 20:05:06,855]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 20:05:13,246]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:05:13] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 20:05:13,740]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:05:13] "GET /admin/img/a.ico HTTP/1.1" 404 -
+[2018-04-07 20:05:16,112]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:05:16] "GET /admin/logout/ HTTP/1.1" 500 -
+[2018-04-07 20:05:17,976]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:05:17] "GET /admin/logout/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2018-04-07 20:05:17,986]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:05:17] "GET /admin/logout/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[2018-04-07 20:05:18,016]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:05:18] "GET /admin/logout/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2018-04-07 20:05:18,125]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:05:18] "GET /admin/logout/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[2018-04-07 20:05:18,395]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:05:18] "GET /admin/logout/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2018-04-07 20:06:36,940]INFO | werkzeug:  * Detected change in 'D:\\projects\\github\\loginTest\\model\\LogoutView.py', reloading
+[2018-04-07 20:06:37,096]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 20:06:40,806]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 20:06:40,835]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 20:06:40,846]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 20:06:49,108]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 20:06:53,635]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 20:06:53,752]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 20:06:53,793]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 20:06:59,948]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:06:59] "GET /admin/logout/ HTTP/1.1" 200 -
+[2018-04-07 20:13:10,253]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:13:10] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 20:13:10,894]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:13:10] "GET /admin/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-07 20:13:13,859]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:13:13] "POST /login/ HTTP/1.1" 302 -
+[2018-04-07 20:13:13,950]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:13:13] "GET / HTTP/1.1" 302 -
+[2018-04-07 20:13:15,683]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:13:15] "GET /admin/DevicesView/ HTTP/1.1" 200 -
+[2018-04-07 20:13:20,701]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:13:20] "GET /admin/logout/ HTTP/1.1" 200 -
+[2018-04-07 20:14:15,270]INFO | werkzeug:  * Detected change in 'D:\\projects\\github\\loginTest\\model\\LogoutView.py', reloading
+[2018-04-07 20:14:15,421]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 20:14:21,815]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 20:14:21,917]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 20:14:21,951]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 20:14:22,434]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:14:22] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 20:14:22,704]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:14:22] "GET /admin/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-07 20:14:25,875]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:14:25] "POST /login/ HTTP/1.1" 302 -
+[2018-04-07 20:14:25,936]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:14:25] "GET / HTTP/1.1" 302 -
+[2018-04-07 20:14:26,868]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:14:26] "GET /admin/DevicesView/ HTTP/1.1" 200 -
+[2018-04-07 20:14:33,253]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:14:33] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 20:14:33,844]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:14:33] "GET /admin/img/a.ico HTTP/1.1" 404 -
+[2018-04-07 20:14:45,684]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:14:45] "GET /admin/logout/ HTTP/1.1" 200 -
+[2018-04-07 20:14:46,743]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:14:46] "GET /admin/logout/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-07 20:18:29,572]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:18:29] "POST /login/ HTTP/1.1" 302 -
+[2018-04-07 20:18:29,604]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:18:29] "GET / HTTP/1.1" 302 -
+[2018-04-07 20:18:29,650]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:18:29] "GET /admin/DevicesView/ HTTP/1.1" 200 -
+[2018-04-07 20:18:32,816]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:18:32] "GET /admin/RoleView/ HTTP/1.1" 200 -
+[2018-04-07 20:18:36,042]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:18:36] "GET /admin/UserView/ HTTP/1.1" 200 -
+[2018-04-07 20:18:39,016]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:18:39] "GET /admin/Roles_UsersView/ HTTP/1.1" 200 -
+[2018-04-07 20:18:48,160]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:18:48] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 20:18:49,151]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:18:49] "GET /admin/img/a.ico HTTP/1.1" 404 -
+[2018-04-07 20:19:01,105]INFO | werkzeug:  * Detected change in 'D:\\projects\\github\\loginTest\\loginTest.py', reloading
+[2018-04-07 20:19:01,315]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 20:19:07,871]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 20:19:07,928]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 20:19:07,953]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 20:19:09,680]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:19:09] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 20:19:10,369]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:19:10] "GET /admin/img/a.ico HTTP/1.1" 404 -
+[2018-04-07 20:24:57,407]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:24:57] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 20:24:57,594]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:24:57] "GET /admin/notice.html HTTP/1.1" 404 -
+[2018-04-07 20:25:57,128]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:25:57] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 20:25:57,522]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:25:57] "GET /admin/templates/notice.html HTTP/1.1" 404 -
+[2018-04-07 20:27:22,328]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:27:22] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 20:27:23,135]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:27:23] "GET /admin/notice.html HTTP/1.1" 404 -
+[2018-04-07 20:28:31,631]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:28:31] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 20:28:32,055]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:28:32] "GET /templates/notice.html HTTP/1.1" 404 -
+[2018-04-07 20:28:50,224]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:28:50] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 20:28:50,960]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:28:50] "GET /templates/notice.html HTTP/1.1" 404 -
+[2018-04-07 20:29:24,177]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:29:24] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 20:29:24,624]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:29:24] "GET /admin/notice.html HTTP/1.1" 404 -
+[2018-04-07 20:33:01,453]INFO | werkzeug:  * Detected change in 'D:\\projects\\github\\loginTest\\api\\common.py', reloading
+[2018-04-07 20:33:01,719]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 20:33:08,236]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 20:33:08,299]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 20:33:08,331]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 20:36:50,474]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:36:50] "GET /admin/ HTTP/1.1" 500 -
+[2018-04-07 20:36:52,380]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:36:52] "GET /admin/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2018-04-07 20:36:52,385]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:36:52] "GET /admin/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[2018-04-07 20:36:52,404]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:36:52] "GET /admin/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2018-04-07 20:36:52,581]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:36:52] "GET /admin/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[2018-04-07 20:36:52,854]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:36:52] "GET /admin/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2018-04-07 20:37:47,598]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:37:47] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 20:37:48,165]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:37:48] "GET /admin/img/a.ico HTTP/1.1" 404 -
+[2018-04-07 20:37:48,201]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:37:48] "GET /admin/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-07 20:38:20,980]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:38:20] "GET /admin/logout/ HTTP/1.1" 200 -
+[2018-04-07 20:38:21,450]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:38:21] "GET /admin/logout/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-07 20:38:25,384]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:38:25] "POST /login/ HTTP/1.1" 302 -
+[2018-04-07 20:38:25,470]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:38:25] "GET / HTTP/1.1" 302 -
+[2018-04-07 20:38:26,644]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:38:26] "GET /admin/DevicesView/ HTTP/1.1" 200 -
+[2018-04-07 20:38:29,160]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:38:29] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 20:38:30,223]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:38:30] "GET /admin/img/a.ico HTTP/1.1" 404 -
+[2018-04-07 20:38:30,267]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:38:30] "GET /admin/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-07 20:40:55,496]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:40:55] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 20:40:56,062]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:40:56] "GET /admin/img/a.ico HTTP/1.1" 404 -
+[2018-04-07 20:40:56,092]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:40:56] "GET /admin/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-07 20:41:21,269]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:41:21] "GET /admin/ HTTP/1.1" 500 -
+[2018-04-07 20:41:21,608]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:41:21] "GET /admin/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2018-04-07 20:41:21,618]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:41:21] "GET /admin/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[2018-04-07 20:41:21,732]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:41:21] "GET /admin/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2018-04-07 20:41:21,891]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:41:21] "GET /admin/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[2018-04-07 20:41:22,135]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:41:22] "GET /admin/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2018-04-07 20:41:50,358]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:41:50] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 20:41:50,892]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:41:50] "GET /admin/img/a.ico HTTP/1.1" 404 -
+[2018-04-07 20:41:50,953]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:41:50] "GET /admin/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-07 20:44:18,546]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:44:18] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 20:44:18,888]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:44:18] "GET /admin/img/a.ico HTTP/1.1" 404 -
+[2018-04-07 20:44:18,908]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:44:18] "GET /admin/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-07 20:44:21,832]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:44:21] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 20:44:22,388]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:44:22] "GET /admin/img/a.ico HTTP/1.1" 404 -
+[2018-04-07 20:44:22,434]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:44:22] "GET /admin/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-07 20:44:23,515]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:44:23] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 20:44:23,907]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:44:23] "GET /admin/img/a.ico HTTP/1.1" 404 -
+[2018-04-07 20:44:23,936]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:44:23] "GET /admin/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-07 20:44:40,832]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:44:40] "GET /admin/logout/ HTTP/1.1" 200 -
+[2018-04-07 20:44:42,013]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:44:42] "GET /admin/logout/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-07 20:44:42,595]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:44:42] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 20:44:42,842]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:44:42] "GET /admin/notice.html HTTP/1.1" 404 -
+[2018-04-07 20:44:47,358]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:44:47] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 20:44:47,858]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:44:47] "GET /admin/notice.html HTTP/1.1" 404 -
+[2018-04-07 20:44:56,845]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:44:56] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 20:44:57,089]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:44:57] "GET /admin/notice.html HTTP/1.1" 404 -
+[2018-04-07 20:45:48,535]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:45:48] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 20:45:48,733]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:45:48] "GET /admin/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-07 20:46:43,780]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:46:43] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 20:46:44,878]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:46:44] "GET /admin/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-07 20:46:49,061]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:46:49] "POST /login/ HTTP/1.1" 302 -
+[2018-04-07 20:46:49,158]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:46:49] "GET / HTTP/1.1" 302 -
+[2018-04-07 20:46:49,381]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:46:49] "GET /admin/DevicesView/ HTTP/1.1" 200 -
+[2018-04-07 20:46:52,124]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:46:52] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 20:46:52,891]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:46:52] "GET /admin/img/a.ico HTTP/1.1" 404 -
+[2018-04-07 20:47:01,858]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:47:01] "GET /admin/logout/ HTTP/1.1" 200 -
+[2018-04-07 20:47:02,497]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:47:02] "GET /admin/logout/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-07 20:47:06,165]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:47:06] "POST /login/ HTTP/1.1" 302 -
+[2018-04-07 20:47:06,270]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:47:06] "GET / HTTP/1.1" 302 -
+[2018-04-07 20:47:06,523]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:47:06] "GET /admin/DevicesView/ HTTP/1.1" 200 -
+[2018-04-07 20:47:10,542]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:47:10] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 20:47:11,717]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:47:11] "GET /admin/img/a.ico HTTP/1.1" 404 -
+[2018-04-07 20:47:13,464]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:47:13] "GET /admin/RentLogView/ HTTP/1.1" 200 -
+[2018-04-07 20:47:15,595]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:47:15] "GET /admin/logout/ HTTP/1.1" 200 -
+[2018-04-07 20:47:16,473]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:47:16] "GET /admin/logout/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-07 20:47:27,065]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:47:27] "POST /login/ HTTP/1.1" 302 -
+[2018-04-07 20:47:27,168]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:47:27] "GET / HTTP/1.1" 302 -
+[2018-04-07 20:47:27,464]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:47:27] "GET /admin/DevicesView/ HTTP/1.1" 200 -
+[2018-04-07 20:47:29,651]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:47:29] "GET /admin/logout/ HTTP/1.1" 200 -
+[2018-04-07 20:47:30,490]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:47:30] "GET /admin/logout/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-07 20:48:09,142]INFO | werkzeug:  * Detected change in 'D:\\projects\\github\\loginTest\\model\\LogoutView.py', reloading
+[2018-04-07 20:48:09,302]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 20:48:13,640]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 20:48:13,798]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 20:48:13,910]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 20:48:15,986]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:48:15] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 20:48:16,414]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:48:16] "GET /admin/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-07 20:48:20,983]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:48:20] "POST /login/ HTTP/1.1" 302 -
+[2018-04-07 20:48:21,069]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:48:21] "GET / HTTP/1.1" 302 -
+[2018-04-07 20:48:21,963]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:48:21] "GET /admin/DevicesView/ HTTP/1.1" 200 -
+[2018-04-07 20:48:24,082]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:48:24] "GET /admin/logout/ HTTP/1.1" 200 -
+[2018-04-07 20:48:25,079]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:48:25] "GET /admin/logout/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-07 20:48:28,700]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:48:28] "POST /login/ HTTP/1.1" 302 -
+[2018-04-07 20:48:28,832]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:48:28] "GET / HTTP/1.1" 302 -
+[2018-04-07 20:48:29,200]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:48:29] "GET /admin/DevicesView/ HTTP/1.1" 200 -
+[2018-04-07 20:48:31,782]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:48:31] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 20:48:32,496]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:48:32] "GET /admin/img/a.ico HTTP/1.1" 404 -
+[2018-04-07 20:51:39,714]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:51:39] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 20:51:40,328]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 20:51:40] "GET /admin/img/a.ico HTTP/1.1" 404 -
+[2018-04-07 21:02:47,204]INFO | werkzeug:  * Detected change in 'D:\\projects\\github\\loginTest\\api\\common.py', reloading
+[2018-04-07 21:02:47,305]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 21:02:50,687]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 21:02:50,721]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 21:02:50,740]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 21:02:54,223]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 21:02:54] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 21:02:54,825]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 21:02:54] "GET /admin/img/a.ico HTTP/1.1" 404 -
+[2018-04-07 21:02:56,950]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 21:02:56] "GET /admin/logout/ HTTP/1.1" 200 -
+[2018-04-07 21:02:57,148]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 21:02:57] "GET /admin/logout/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-07 21:02:59,506]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 21:02:59] "POST /login/ HTTP/1.1" 302 -
+[2018-04-07 21:02:59,565]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 21:02:59] "GET / HTTP/1.1" 302 -
+[2018-04-07 21:02:59,651]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 21:02:59] "GET /admin HTTP/1.1" 301 -
+[2018-04-07 21:02:59,732]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 21:02:59] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 21:03:00,091]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 21:03:00] "GET /admin/img/a.ico HTTP/1.1" 404 -
+[2018-04-07 21:03:09,953]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 21:03:09] "GET /admin/RentLogView/ HTTP/1.1" 200 -
+[2018-04-07 21:09:16,280]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 21:09:16] "POST /rentPhoneReport HTTP/1.1" 500 -
+[2018-04-07 21:09:45,474]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 21:09:48,178]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 21:09:48,209]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 21:09:48,221]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 21:09:54,253]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 21:09:54] "POST /rentPhoneReport HTTP/1.1" 500 -
+[2018-04-07 21:16:06,736]INFO | werkzeug:  * Detected change in 'D:\\projects\\github\\loginTest\\api\\rentPhoneReport.py', reloading
+[2018-04-07 21:16:07,035]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 21:16:14,979]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 21:16:17,802]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 21:16:17,835]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 21:16:17,848]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 21:16:21,013]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 21:16:21] "POST /rentPhoneReport HTTP/1.1" 200 -
+[2018-04-07 21:17:07,573]INFO | werkzeug:  * Detected change in 'D:\\projects\\github\\loginTest\\api\\rentPhoneReport.py', reloading
+[2018-04-07 21:17:07,723]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 21:17:12,990]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 21:17:13,065]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 21:17:13,095]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 21:18:43,602]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 21:18:46,374]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 21:18:46,404]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 21:18:46,431]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 21:19:24,595]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 21:19:30,128]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 21:19:30,184]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 21:19:30,210]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 21:19:31,940]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 21:19:31] "POST /rentPhoneReport HTTP/1.1" 200 -
+[2018-04-07 21:20:05,977]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 21:20:05] "POST /rentPhoneReport HTTP/1.1" 200 -
+[2018-04-07 21:20:22,888]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 21:20:22] "POST /rentPhoneReport HTTP/1.1" 200 -
+[2018-04-07 21:31:07,433]INFO | werkzeug:  * Detected change in 'D:\\projects\\github\\loginTest\\api\\rentPhoneReport.py', reloading
+[2018-04-07 21:31:07,563]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 21:31:12,098]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 21:31:17,203]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 21:31:19,720]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 21:31:19,756]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 21:31:19,772]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 21:31:23,039]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 21:31:23] "POST /rentPhoneReport HTTP/1.1" 500 -
+[2018-04-07 21:35:35,851]INFO | werkzeug:  * Detected change in 'D:\\projects\\github\\loginTest\\init.py', reloading
+[2018-04-07 21:35:36,052]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 21:35:44,262]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 21:35:47,539]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 21:35:47,565]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 21:35:47,575]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 21:35:55,299]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 21:35:55] "POST /rentPhoneReport HTTP/1.1" 500 -
+[2018-04-07 21:36:29,920]INFO | werkzeug:  * Detected change in 'D:\\projects\\github\\loginTest\\init.py', reloading
+[2018-04-07 21:36:30,038]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 21:36:36,190]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 21:36:36,243]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 21:36:36,269]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 21:42:06,167]INFO | werkzeug:  * Detected change in 'D:\\projects\\github\\loginTest\\api\\rentPhoneReport.py', reloading
+[2018-04-07 21:42:06,285]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 21:42:10,180]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 21:42:15,869]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 21:42:15,947]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 21:42:15,973]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 21:42:30,924]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 21:42:30] "POST /rentPhoneReport HTTP/1.1" 200 -
+[2018-04-07 21:43:14,821]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 21:43:14] "POST /rentPhoneReport HTTP/1.1" 500 -
+[2018-04-07 21:43:36,640]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 21:43:43,059]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 21:43:45,987]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 21:43:46,015]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 21:43:46,030]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 21:44:00,648]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 21:44:04,282]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 21:44:04,309]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 21:44:04,319]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 21:44:17,009]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 21:44:17] "POST /rentPhoneReport HTTP/1.1" 200 -
+[2018-04-07 21:44:24,118]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 21:44:24] "POST /rentPhoneReport HTTP/1.1" 200 -
+[2018-04-07 21:45:32,709]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 21:45:32] "POST /rentPhoneReport HTTP/1.1" 200 -
+[2018-04-07 21:45:38,015]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 21:45:38] "POST /rentPhoneReport HTTP/1.1" 200 -
+[2018-04-07 21:46:05,382]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 21:46:05] "POST /rentPhoneReport HTTP/1.1" 200 -
+[2018-04-07 21:46:14,362]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 21:46:14] "POST /rentPhoneReport HTTP/1.1" 500 -
+[2018-04-07 21:46:21,213]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 21:46:21] "POST /rentPhoneReport HTTP/1.1" 500 -
+[2018-04-07 21:47:21,513]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 21:47:26,351]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 21:47:26,391]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 21:47:26,405]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 21:47:44,058]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 21:47:44] "POST /rentPhoneReport HTTP/1.1" 200 -
+[2018-04-07 21:49:05,295]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 21:49:05] "POST /rentPhoneReport HTTP/1.1" 200 -
+[2018-04-07 21:49:09,697]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 21:49:09] "POST /rentPhoneReport HTTP/1.1" 200 -
+[2018-04-07 21:49:35,381]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 21:49:35] "POST /rentPhoneReport HTTP/1.1" 200 -
+[2018-04-07 21:49:39,095]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 21:49:39] "POST /rentPhoneReport HTTP/1.1" 200 -
+[2018-04-07 21:50:11,755]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 21:50:11] "POST /rentPhoneReport HTTP/1.1" 200 -
+[2018-04-07 21:50:16,270]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 21:50:16] "POST /rentPhoneReport HTTP/1.1" 200 -
+[2018-04-07 21:51:06,653]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 21:51:06] "POST /rentPhoneReport HTTP/1.1" 200 -
+[2018-04-07 21:51:18,253]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 21:51:18] "POST /rentPhoneReport HTTP/1.1" 200 -
+[2018-04-07 21:52:08,286]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 21:52:08] "POST /rentPhoneReport HTTP/1.1" 200 -
+[2018-04-07 21:52:15,016]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 21:52:15] "POST /rentPhoneReport HTTP/1.1" 200 -
+[2018-04-07 21:55:23,183]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 21:55:23] "POST /rentPhoneReport HTTP/1.1" 200 -
+[2018-04-07 21:55:27,298]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 21:55:27] "POST /rentPhoneReport HTTP/1.1" 200 -
+[2018-04-07 22:00:56,609]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 22:00:56] "POST /rentPhoneReport HTTP/1.1" 200 -
+[2018-04-07 22:02:25,877]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 22:02:25] "POST /rentPhoneReport HTTP/1.1" 200 -
+[2018-04-07 22:02:47,707]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 22:02:47] "POST /rentPhoneReport HTTP/1.1" 200 -
+[2018-04-07 22:02:54,849]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 22:02:54] "POST /rentPhoneReport HTTP/1.1" 200 -
+[2018-04-07 22:03:28,948]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 22:03:28] "POST /rentPhoneReport HTTP/1.1" 200 -
+[2018-04-07 22:03:39,782]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 22:03:39] "POST /rentPhoneReport HTTP/1.1" 200 -
+[2018-04-07 22:05:25,313]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 22:05:27,701]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 22:05:27,727]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 22:05:27,760]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 22:05:32,759]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 22:05:32] "POST /rentPhoneReport HTTP/1.1" 200 -
+[2018-04-07 22:06:05,707]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 22:06:05] "POST /rentPhoneReport HTTP/1.1" 200 -
+[2018-04-07 22:07:12,776]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 22:07:12] "POST /rentPhoneReport HTTP/1.1" 200 -
+[2018-04-07 22:07:17,345]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 22:07:17] "POST /rentPhoneReport HTTP/1.1" 200 -
+[2018-04-07 22:07:19,546]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 22:07:19] "POST /rentPhoneReport HTTP/1.1" 200 -
+[2018-04-07 22:07:25,513]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 22:07:25] "POST /rentPhoneReport HTTP/1.1" 200 -
+[2018-04-07 22:07:30,408]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 22:07:30] "POST /rentPhoneReport HTTP/1.1" 200 -
+[2018-04-07 22:07:34,881]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 22:07:34] "POST /rentPhoneReport HTTP/1.1" 200 -
+[2018-04-07 22:07:41,122]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 22:07:41] "POST /rentPhoneReport HTTP/1.1" 200 -
+[2018-04-07 22:08:16,802]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 22:08:16] "POST /rentPhoneReport HTTP/1.1" 200 -
+[2018-04-07 22:08:19,428]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 22:08:19] "POST /rentPhoneReport HTTP/1.1" 200 -
+[2018-04-07 22:08:25,943]INFO | werkzeug: 192.168.1.105 - - [07/Apr/2018 22:08:25] "POST /rentPhoneReport HTTP/1.1" 200 -
+[2018-04-07 22:10:20,927]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 22:10:25,969]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 22:10:26,013]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 22:10:26,032]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 22:33:46,499]INFO | werkzeug:  * Detected change in 'D:\\projects\\github\\loginTest\\model\\LogoutView.py', reloading
+[2018-04-07 22:33:46,601]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 22:33:50,298]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 22:33:50,351]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 22:33:50,368]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 22:49:01,286]INFO | werkzeug:  * Restarting with stat
+[2018-04-07 22:49:07,744]WARNING | werkzeug:  * Debugger is active!
+[2018-04-07 22:49:07,809]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-07 22:49:07,835]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-07 22:49:10,779]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 22:49:10] "GET / HTTP/1.1" 302 -
+[2018-04-07 22:49:10,884]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 22:49:10] "GET /admin HTTP/1.1" 301 -
+[2018-04-07 22:49:11,444]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 22:49:11] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-07 22:49:11,838]INFO | werkzeug: 127.0.0.1 - - [07/Apr/2018 22:49:11] "GET /admin/img/a.ico HTTP/1.1" 404 -
+[2018-04-08 00:21:40,638]INFO | werkzeug:  * Restarting with stat
+[2018-04-08 00:21:45,661]WARNING | werkzeug:  * Debugger is active!
+[2018-04-08 00:21:45,691]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-08 00:21:45,709]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-08 00:21:50,732]INFO | werkzeug: 192.168.1.105 - - [08/Apr/2018 00:21:50] "POST /rentPhoneReport HTTP/1.1" 200 -
+[2018-04-08 00:22:03,102]INFO | werkzeug: 127.0.0.1 - - [08/Apr/2018 00:22:03] "GET /admin/modifyPassword/ HTTP/1.1" 200 -
+[2018-04-08 00:22:03,986]INFO | werkzeug: 127.0.0.1 - - [08/Apr/2018 00:22:03] "GET /admin/modifyPassword/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-08 00:22:14,394]INFO | werkzeug: 127.0.0.1 - - [08/Apr/2018 00:22:14] "POST /modifyPassword/ HTTP/1.1" 302 -
+[2018-04-08 00:22:14,529]INFO | werkzeug: 127.0.0.1 - - [08/Apr/2018 00:22:14] "GET /admin HTTP/1.1" 301 -
+[2018-04-08 00:22:14,667]INFO | werkzeug: 127.0.0.1 - - [08/Apr/2018 00:22:14] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-08 00:22:15,361]INFO | werkzeug: 127.0.0.1 - - [08/Apr/2018 00:22:15] "GET /admin/img/a.ico HTTP/1.1" 404 -
+[2018-04-08 00:24:28,612]INFO | werkzeug:  * Detected change in 'D:\\projects\\github\\loginTest\\api\\common.py', reloading
+[2018-04-08 00:24:28,779]INFO | werkzeug:  * Restarting with stat
+[2018-04-08 00:24:31,950]WARNING | werkzeug:  * Debugger is active!
+[2018-04-08 00:24:31,977]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-08 00:24:31,990]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-08 00:24:37,316]INFO | werkzeug: 127.0.0.1 - - [08/Apr/2018 00:24:37] "GET /admin/modifyPassword/ HTTP/1.1" 200 -
+[2018-04-08 00:24:38,763]INFO | werkzeug: 127.0.0.1 - - [08/Apr/2018 00:24:38] "GET /admin/static/bootstrap/bootstrap2/swatch/default/bootstrap.min.css?v=2.3.2 HTTP/1.1" 304 -
+[2018-04-08 00:24:38,803]INFO | werkzeug: 127.0.0.1 - - [08/Apr/2018 00:24:38] "GET /admin/static/bootstrap/bootstrap2/css/bootstrap-responsive.css?v=2.3.2 HTTP/1.1" 304 -
+[2018-04-08 00:24:38,828]INFO | werkzeug: 127.0.0.1 - - [08/Apr/2018 00:24:38] "GET /admin/static/admin/css/bootstrap2/admin.css?v=1.1.1 HTTP/1.1" 304 -
+[2018-04-08 00:24:38,864]INFO | werkzeug: 127.0.0.1 - - [08/Apr/2018 00:24:38] "GET /admin/static/vendor/jquery.min.js?v=2.1.4 HTTP/1.1" 304 -
+[2018-04-08 00:24:38,930]INFO | werkzeug: 127.0.0.1 - - [08/Apr/2018 00:24:38] "GET /admin/static/bootstrap/bootstrap2/js/bootstrap.min.js?v=2.3.2 HTTP/1.1" 304 -
+[2018-04-08 00:24:38,974]INFO | werkzeug: 127.0.0.1 - - [08/Apr/2018 00:24:38] "GET /admin/static/vendor/moment.min.js?v=2.9.0 HTTP/1.1" 304 -
+[2018-04-08 00:24:39,042]INFO | werkzeug: 127.0.0.1 - - [08/Apr/2018 00:24:39] "GET /admin/static/vendor/select2/select2.min.js?v=3.5.2 HTTP/1.1" 304 -
+[2018-04-08 00:24:39,095]INFO | werkzeug: 127.0.0.1 - - [08/Apr/2018 00:24:39] "GET /admin/modifyPassword/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-08 00:24:50,661]INFO | werkzeug: 127.0.0.1 - - [08/Apr/2018 00:24:50] "POST /modifyPassword/ HTTP/1.1" 302 -
+[2018-04-08 00:24:50,793]INFO | werkzeug: 127.0.0.1 - - [08/Apr/2018 00:24:50] "GET /admin HTTP/1.1" 301 -
+[2018-04-08 00:24:50,957]INFO | werkzeug: 127.0.0.1 - - [08/Apr/2018 00:24:50] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-08 00:24:51,890]INFO | werkzeug: 127.0.0.1 - - [08/Apr/2018 00:24:51] "GET /admin/img/a.ico HTTP/1.1" 404 -
+[2018-04-08 00:25:04,016]INFO | werkzeug:  * Restarting with stat
+[2018-04-08 00:25:08,424]WARNING | werkzeug:  * Debugger is active!
+[2018-04-08 00:25:08,494]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-08 00:25:08,513]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-08 00:25:20,069]INFO | werkzeug: 127.0.0.1 - - [08/Apr/2018 00:25:20] "GET /admin/modifyPassword/ HTTP/1.1" 200 -
+[2018-04-08 00:25:20,588]INFO | werkzeug: 127.0.0.1 - - [08/Apr/2018 00:25:20] "GET /admin/modifyPassword/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-08 00:25:39,921]INFO | werkzeug: 127.0.0.1 - - [08/Apr/2018 00:25:39] "POST /modifyPassword/ HTTP/1.1" 302 -
+[2018-04-08 00:25:40,003]INFO | werkzeug: 127.0.0.1 - - [08/Apr/2018 00:25:40] "GET /admin HTTP/1.1" 301 -
+[2018-04-08 00:25:40,096]INFO | werkzeug: 127.0.0.1 - - [08/Apr/2018 00:25:40] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-08 00:25:40,533]INFO | werkzeug: 127.0.0.1 - - [08/Apr/2018 00:25:40] "GET /admin/img/a.ico HTTP/1.1" 404 -
+[2018-04-08 00:31:30,296]INFO | werkzeug:  * Restarting with stat
+[2018-04-08 00:31:35,651]WARNING | werkzeug:  * Debugger is active!
+[2018-04-08 00:31:35,736]INFO | werkzeug:  * Debugger pin code: 393-199-809
+[2018-04-08 00:31:35,776]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-08 00:31:38,528]INFO | werkzeug: 127.0.0.1 - - [08/Apr/2018 00:31:38] "GET /admin/modifyPassword/ HTTP/1.1" 200 -
+[2018-04-08 00:31:39,361]INFO | werkzeug: 127.0.0.1 - - [08/Apr/2018 00:31:39] "GET /admin/modifyPassword/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-08 00:31:50,595]INFO | werkzeug: 127.0.0.1 - - [08/Apr/2018 00:31:50] "POST /modifyPassword/ HTTP/1.1" 302 -
+[2018-04-08 00:31:50,752]INFO | werkzeug: 127.0.0.1 - - [08/Apr/2018 00:31:50] "GET /admin HTTP/1.1" 301 -
+[2018-04-08 00:31:50,930]INFO | werkzeug: 127.0.0.1 - - [08/Apr/2018 00:31:50] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-08 00:31:52,039]INFO | werkzeug: 127.0.0.1 - - [08/Apr/2018 00:31:52] "GET /admin/img/a.ico HTTP/1.1" 404 -
+[2018-04-08 00:31:55,470]INFO | werkzeug: 127.0.0.1 - - [08/Apr/2018 00:31:55] "GET /admin/logout/ HTTP/1.1" 200 -
+[2018-04-08 00:31:56,344]INFO | werkzeug: 127.0.0.1 - - [08/Apr/2018 00:31:56] "GET /admin/logout/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-08 00:32:01,536]INFO | werkzeug: 127.0.0.1 - - [08/Apr/2018 00:32:01] "POST /login/ HTTP/1.1" 302 -
+[2018-04-08 00:32:01,667]INFO | werkzeug: 127.0.0.1 - - [08/Apr/2018 00:32:01] "GET / HTTP/1.1" 302 -
+[2018-04-08 00:32:01,875]INFO | werkzeug: 127.0.0.1 - - [08/Apr/2018 00:32:01] "GET /admin HTTP/1.1" 301 -
+[2018-04-08 00:32:01,964]INFO | werkzeug: 127.0.0.1 - - [08/Apr/2018 00:32:01] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-08 00:32:02,493]INFO | werkzeug: 127.0.0.1 - - [08/Apr/2018 00:32:02] "GET /admin/img/a.ico HTTP/1.1" 404 -

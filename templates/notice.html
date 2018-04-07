@@ -1,0 +1,47 @@
+{% extends 'admin/master.html' %}
+{% block body %}
+    {% if c %}
+<style type="text/css">
+#all{
+    width:500px;
+    height:400px;
+    margin-left:220px;
+    margin-top:110px;
+}
+#all .title{
+    font-family:"微软雅黑";
+    font-size:24px;
+    padding-left:20px;
+}
+hr{
+    width:477px;
+    height:5px;
+    background-color:#006600;
+    float:right;
+    margin:15px 0;
+}
+#all li{
+    line-height:25px;
+    margin:10px 5px;
+    font-family:"微软雅黑";
+    font-size:16px;
+    list-style-image: url(img/a.ico);
+}
+</style>
+</head>
+
+<body>
+<div id="all">
+    <div class="title">通知公告</div>
+    <hr />
+    <div class="content">
+        <ul>
+            <li>青岛**大学科技楼实验室配套太贵采购公开招标</li>
+            <li>青岛**大学教师誓词</li>
+            <li>关于2017年3月学期赴韩交换生学生项目的报名通知</li>
+            <li>赴韩交换生学生项目的报名通知</li>
+            <li>科技楼实验室配套太贵采购公</li>
+        </ul>
+    </div>
+</div>
+{% endblock %}
