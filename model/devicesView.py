@@ -44,7 +44,7 @@ class Devices(db.Model,Base):
     def __repr__(self):
         return '<devices %r>' % self.name
 class DevicesView(MyBaseModelView):
-    # column_formatters = dict(status=lambda v, c, m, p: u"在库" if m.status == 1 else u"已借出"  )
+    column_formatters = dict(status=lambda v, c, m, p: u"在库" if m.status == True else u"已借出"  )
     column_labels = dict(rentPhoneType=u'手机型号', status=u'是否在库', renterName=u'手机在谁手上', deviceId=u'设备标识',  owner=u'手机属主', isRoot=u'是否root',deviceName = u"手机中文名")
     column_editable_list = ['owner','deviceName']
     # column_searchable_list = ['owner','status']
@@ -83,6 +83,6 @@ class DevicesView(MyBaseModelView):
         super(DevicesView, self).__init__(Devices, session, **kwargs)
 
 # Setup Flask-Security
-engine = create_engine('sqlite:///../db/phone.db')
+engine = create_engine('sqlite:///../db/house.db')
 # 创建DBSession类型:
 DBSession = sessionmaker(bind=engine)

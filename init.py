@@ -15,7 +15,7 @@ app = Flask(__name__)
 
 app.secret_key = 'Sqsdsffqrhgh***'
 DATABASE = 'D:\projects\github\loginTest\db\phone.db'
-app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///./db/phone.db'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///./db/house.db'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = True
 app.debug = True
 
