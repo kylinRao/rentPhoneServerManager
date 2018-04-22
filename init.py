@@ -1,16 +1,27 @@
 # coding=utf-8
+import ast
 
 from flask_sqlalchemy import SQLAlchemy
 from flask import Flask
 from flask_login import LoginManager
 import sys
 from flask_babelex import Babel
+from jinja2 import environment
+
+
+def str2dic(value,key):
+    return ast.literal_eval(value)[key]
+
+
 
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
 
 app = Flask(__name__)
+
+env = app.jinja_env
+env.filters['str2dic'] = str2dic
 
 
 app.secret_key = 'Sqsdsffqrhgh***'

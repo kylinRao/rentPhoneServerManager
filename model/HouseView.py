@@ -8,8 +8,10 @@
 
 from flask.ext.login import current_user
 from init import *
+from db.dbInit01 import conn
 # Create database connection object
 from model.MyBaseModelView import MyBaseModelView
+
 
 db = SQLAlchemy(app)
 
@@ -23,9 +25,27 @@ class HouseEveryDayPrice(db.Model):
     unitPrice = db.Column(db.FLOAT)
     updateTime = db.Column(db.DATETIME)
 class HouseEveryDayPriceView(MyBaseModelView):
+    list_template = 'admin/HouseCustom_list.html'
+    column_formatters = dict(houseCode=lambda v, c, m, p: {"houseCode":m.houseCode})
+    column_filters =  ['houseCode']
     def __init__(self, session, **kwargs):
         # You can pass name and other parameters if you want to
         super(HouseEveryDayPriceView, self).__init__(HouseEveryDayPrice, session, **kwargs)
+class HouseReduceDay(db.Model):
+    __tablename__ = 'HouseReduceDay'
+
+    id = db.Column(db.Integer(), primary_key=True)
+    houseCode = db.Column(db.Integer())
+    date = db.Column(db.DATE)
+    reducePercent = db.Column(db.FLOAT)
+
+class HouseReduceDayView(MyBaseModelView):
+    list_template = 'admin/HouseCustom_list.html'
+    column_formatters = dict(houseCode=lambda v, c, m, p: {"houseCode":m.houseCode})
+    column_filters =  ['houseCode']
+    def __init__(self, session, **kwargs):
+        # You can pass name and other parameters if you want to
+        super(HouseReduceDayView, self).__init__(HouseReduceDay, session, **kwargs)
 class HouseBaseInfo(db.Model):
     __tablename__ = 'HouseBaseInfo'
     id = db.Column(db.Integer(), primary_key=True)
@@ -40,7 +60,12 @@ class HouseBaseInfo(db.Model):
     sourceId = db.Column(db.Integer)
 
 class HouseBaseInfoView(MyBaseModelView):
-    # column_formatters = dict(url=lambda v, c, m, p: u"<a href='{url}'>".format(url=m.url),sourceId=lambda v, c, m, p:u"在库" if m.sourceId == 1 else u"已借出"   )
+    list_template = 'admin/HouseCustom_list.html'
+    column_formatters = dict(houseCode=lambda v, c, m, p: {"houseCode":m.houseCode})
+    column_filters =  ['houseCode','area',]
+    column_exclude_list = ['url','houseInfo' ]
+
+
     def __init__(self, session, **kwargs):
         # You can pass name and other parameters if you want to
         super(HouseBaseInfoView, self).__init__(HouseBaseInfo, session, **kwargs)

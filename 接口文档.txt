@@ -1,0 +1,7 @@
+rentPhoneReport
+method:rent
+phone, name, deviceId, rentPhoneType, battaryLevel, gameboxVersion, hiappVersion, hmsVersion, isRoot
+
+
+method:return
+phone, name, deviceId, rentPhoneType, battaryLevel, gameboxVersion, hiappVersion, hmsVersion

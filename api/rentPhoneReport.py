@@ -18,7 +18,7 @@ from model.roleUser import Users, Roles
 @app.route('/rentPhoneReport', methods=['POST', 'GET'])
 def rentPhoneReport():
 
-
+    logControl.getLogger().info("wo got the method :{method}".format(method=request.form.get("method", 'getNoMethod')))
     user_datastore = SQLAlchemyUserDatastore(db, Users, Roles)
 # rent method
     if request.form.get("method", 'getNoMethod') == "rent":
@@ -105,7 +105,7 @@ def rentPhoneReport():
             db.session.commit()
         except:
             data = {"responseCode":staticMem.RENT_DB_ERROR,"Msg":"db error"}
-            logControl.getLogger().debug("some db error occored")
+            logControl.getLogger().info("some db error occored")
 
             return json.dumps(data)
 
@@ -140,7 +140,7 @@ def rentPhoneReport():
 
         rentlogs = Rentlog.query.filter(Rentlog.name == name).filter( Rentlog.status == False).all()
         for rentLog in rentlogs:
-            logControl.getLogger().debug("rentlogs:{rentlogs}".format(
+            logControl.getLogger().info("rentlogs:{rentlogs}".format(
                     rentlogs=rentLog))
             rentLog.returnName = name
             rentLog.returnPhone = phone
@@ -157,7 +157,7 @@ def rentPhoneReport():
             rentLog.hmsVersion = hmsVersion
             rentLog.status = True
 
-            logControl.getLogger().debug("returnName={returnName},returnPhone={returnPhone},returnTime={returnTime}".format(
+            logControl.getLogger().info("returnName={returnName},returnPhone={returnPhone},returnTime={returnTime}".format(
                     returnName=rentLog.returnName,returnPhone=rentLog.returnPhone,returnTime=rentLog.returnTime))
 
 

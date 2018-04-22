@@ -24,6 +24,7 @@ class RentLogView(MyBaseModelView):
 
     column_filters =  ['name','deviceId','status','returnName','rentPhoneType']
 
+
     # Override displayed fields
     # column_list = ('login', 'email')
 
