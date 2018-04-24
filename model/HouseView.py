@@ -62,7 +62,7 @@ class HouseBaseInfo(db.Model):
 class HouseBaseInfoView(MyBaseModelView):
     list_template = 'admin/HouseCustom_list.html'
     column_formatters = dict(houseCode=lambda v, c, m, p: {"houseCode":m.houseCode})
-    column_filters =  ['houseCode','area',]
+    column_filters =  ['houseCode','area','region']
     column_exclude_list = ['url','houseInfo' ]
 
 

@@ -1,0 +1,7 @@
+[2018-04-24 22:21:29,290]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-24 22:21:37,216]INFO | werkzeug: 127.0.0.1 - - [24/Apr/2018 22:21:37] "GET /admin/HouseReduceDayView/?sort=1&desc=1 HTTP/1.1" 200 -
+[2018-04-24 22:21:39,341]INFO | werkzeug: 127.0.0.1 - - [24/Apr/2018 22:21:39] "GET /admin/HouseReduceDayView/?sort=1 HTTP/1.1" 200 -
+[2018-04-24 22:21:40,970]INFO | werkzeug: 127.0.0.1 - - [24/Apr/2018 22:21:40] "GET /admin/HouseReduceDayView/?sort=1&desc=1 HTTP/1.1" 200 -
+[2018-04-24 22:24:35,558]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-24 22:24:41,546]INFO | werkzeug: 127.0.0.1 - - [24/Apr/2018 22:24:41] "GET /admin/HouseReduceDayView/?sort=1&desc=1 HTTP/1.1" 200 -
+[2018-04-24 22:24:44,187]INFO | werkzeug: 127.0.0.1 - - [24/Apr/2018 22:24:44] "GET /admin/HouseReduceDayView/?sort=1 HTTP/1.1" 200 -

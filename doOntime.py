@@ -12,9 +12,14 @@ import os
 import schedule
 import threading
 import time
-from db.dbInit01 import conn
+
+import sqlite3
+
+DATABASE = os.path.join(os.path.dirname(__file__),'db','house.db');
+
 
 def housReduceDay():
+    conn = sqlite3.connect(DATABASE)
     print(u"I'm working for housReduceDay,每天上午11:30的时候就要统计好昨天的房价和今天相比较，今天涨幅情况如何！！！")
     sql="replace  into houseReduceDay(houseCode,date,reducePercent) select a.houseCode,b.date,(b.totalPrice-a.totalPrice)/a.totalPrice from houseEveryDayPrice as a,houseEveryDayPrice as b where a.houseCode=b.houseCode and  a.date=date('now','-1 day') and b.date=date('now') and a.totalPrice != b.totalPrice;"
     conn.execute(sql);
@@ -59,6 +64,7 @@ def run():
 
 if __name__ == '__main__':
     print("start")
+    print(DATABASE)
     run()
     while True:
         schedule.run_pending()
