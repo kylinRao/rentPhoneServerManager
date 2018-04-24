@@ -4,7 +4,7 @@ import sqlite3
 from flask import Flask, request, jsonify
 
 app = Flask(__name__)
-DATABASE = './house.db'
+DATABASE = './db/house.db'
 conn = sqlite3.connect(DATABASE)
 
 
