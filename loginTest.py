@@ -17,7 +17,7 @@ from model.HouseView import  HouseEveryDayPriceView, HouseBaseInfoView, HouseRed
 from model.LogoutView import  LogoutView, ModifyPassword
 from model.tools import tools
 from model.roleUser import MyRoleView, MyUserView, MyRoles_UsersView
-from doOntime import *
+
 
 
 
