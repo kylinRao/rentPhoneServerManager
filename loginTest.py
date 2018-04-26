@@ -44,13 +44,14 @@ def teardown_request(exception):
         print("====after request====")
 from model.devicesView import DevicesView
 from model.rentLogView import RentLogView
+from model.FilesView import FilesView
 
 
 
 
 
-  
-if __name__ == '__main__':  
+
+if __name__ == '__main__':
 
     admin = Admin(app,index_view=AdminIndexView(
         name='首页',
@@ -58,19 +59,20 @@ if __name__ == '__main__':
         url='/admin',endpoint='admin'
     ))
 
-    # admin.add_view(RentLogView(db.session, name=u'手机借还记录', endpoint='RentLogView'))
-    # admin.add_view(DevicesView(db.session, name=u'手机状态', endpoint='DevicesView'))
+    admin.add_view(RentLogView(db.session, name=u'手机借还记录', endpoint='RentLogView',category=u"手机借用登记"))
+    admin.add_view(DevicesView(db.session, name=u'手机状态', endpoint='DevicesView',category=u"手机借用登记"))
 
     admin.add_view(MyRoleView(db.session, name=u'角色管理', endpoint='RoleView',category=u"用户与角色"))
     admin.add_view(MyUserView(db.session, name=u'用户管理', endpoint='UserView',category=u"用户与角色"))
     admin.add_view(MyRoles_UsersView(db.session, name=u'角色分配', endpoint='Roles_UsersView',category=u"用户与角色"))
 
-    admin.add_view(HouseEveryDayPriceView(db.session,name='房屋基本价格信息', endpoint='HouseEveryDayPriceView',category=u"南京房价"))
-    admin.add_view(HouseBaseInfoView(db.session,name='房屋基本信息', endpoint='HouseBaseInfoView',category=u"南京房价"))
-    admin.add_view(HouseReduceDayView(db.session,name='房价涨幅信息', endpoint='HouseReduceDayView',category=u"南京房价"))
-
+    admin.add_view(HouseEveryDayPriceView(db.session,name='房屋基本价格信息', endpoint='HouseEveryDayPriceView',category=u"链家房产"))
+    admin.add_view(HouseBaseInfoView(db.session,name='房屋基本信息', endpoint='HouseBaseInfoView',category=u"链家房产"))
+    admin.add_view(HouseReduceDayView(db.session,name='房价涨幅信息', endpoint='HouseReduceDayView',category=u"链家房产"))
+    admin.add_view(FilesView(name='文件下载', endpoint='FilesView', category=u"相关文件"))
     admin.add_view(ModifyPassword(name='密码修改', endpoint='modifyPassword',category=u"与我相关"))
     admin.add_view(LogoutView(name='登出', endpoint='logout',category=u"与我相关"))
+
 
     app.run(host="0.0.0.0", port=9999, debug=False)
 

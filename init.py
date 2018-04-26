@@ -25,7 +25,7 @@ env.filters['str2dic'] = str2dic
 
 
 app.secret_key = 'Sqsdsffqrhgh***'
-DATABASE = 'D:\projects\github\loginTest\db\phone.db'
+DATABASE = '.\db\house.db'
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///./db/house.db'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = True
 app.debug = True

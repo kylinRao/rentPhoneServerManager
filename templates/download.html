@@ -1,0 +1,7 @@
+{% extends 'admin/master.html' %}
+
+{% block body %}
+    {% for file in files %}
+        <a href = 'downloadFile?filename={{ file }}'>{{ file }}</a></br>
+    {% endfor %}
+{% endblock %}

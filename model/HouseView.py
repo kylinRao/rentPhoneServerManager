@@ -28,6 +28,7 @@ class HouseEveryDayPriceView(MyBaseModelView):
     list_template = 'admin/HouseCustom_list.html'
     column_formatters = dict(houseCode=lambda v, c, m, p: {"houseCode":m.houseCode})
     column_filters =  ['houseCode']
+    column_labels = dict(date=u'房价变更日期', totalPrice=u'总价', unitPrice=u'单元价格', updateTime=u'更新时间')
     def __init__(self, session, **kwargs):
         # You can pass name and other parameters if you want to
         super(HouseEveryDayPriceView, self).__init__(HouseEveryDayPrice, session, **kwargs)
@@ -42,6 +43,7 @@ class HouseReduceDay(db.Model):
 class HouseReduceDayView(MyBaseModelView):
     list_template = 'admin/HouseCustom_list.html'
     column_formatters = dict(houseCode=lambda v, c, m, p: {"houseCode":m.houseCode})
+    column_labels = dict(date=u'房价变更日期', reducePercent=u'变更幅度')
     column_filters =  ['houseCode']
     def __init__(self, session, **kwargs):
         # You can pass name and other parameters if you want to
@@ -62,8 +64,9 @@ class HouseBaseInfo(db.Model):
 class HouseBaseInfoView(MyBaseModelView):
     list_template = 'admin/HouseCustom_list.html'
     column_formatters = dict(houseCode=lambda v, c, m, p: {"houseCode":m.houseCode})
+    column_labels = dict(publishday=u'已发布天数', visited=u'最近访问量', region=u'街区',  area=u'区域', attention=u'关注数')
     column_filters =  ['houseCode','area','region']
-    column_exclude_list = ['url','houseInfo' ]
+    column_exclude_list = ['url','houseInfo' ,'sourceId']
 
 
     def __init__(self, session, **kwargs):

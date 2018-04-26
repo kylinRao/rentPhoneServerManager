@@ -30,7 +30,7 @@ class Roles_Users(db.Model):
 
 class MyRoles_UsersView(MyBaseModelView):
     def is_accessible(self):
-        return current_user.is_authenticated
+        return current_user.is_authenticated and current_user.name=="admin"
     column_labels = dict(user_id=u'用户', role_id=u'角色')
     # form_columns = ('id','user_id','role_id')
 

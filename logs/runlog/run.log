@@ -1,0 +1,4 @@
+[2018-04-26 20:31:10,283]INFO | run: wo got the method :rent
+[2018-04-26 20:31:13,407]INFO | run: wo got the method :return
+[2018-04-26 20:31:13,420]INFO | run: rentlogs:<rentLog u'\u9976\u9e92\u9e9f'>
+[2018-04-26 20:31:13,421]INFO | run: returnName=饶麒麟,returnPhone=18551789470,returnTime=2018-04-26 20:31:13
