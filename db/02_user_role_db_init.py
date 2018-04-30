@@ -9,6 +9,7 @@ from flask_security import SQLAlchemyUserDatastore, Security
 from init import app
 from model.devicesView import Devices
 from model.rentLogView import Rentlog
+
 # Setup Flask-Security
 engine = create_engine(app.config['SQLALCHEMY_DATABASE_URI'])
 # 创建DBSession类型:

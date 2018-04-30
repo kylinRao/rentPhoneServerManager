@@ -291,3 +291,62 @@
 [2018-04-26 22:43:28,772]INFO | werkzeug: 127.0.0.1 - - [26/Apr/2018 22:43:28] "GET /admin/HouseReduceDayView/ HTTP/1.1" 200 -
 [2018-04-26 22:43:32,868]INFO | werkzeug: 127.0.0.1 - - [26/Apr/2018 22:43:32] "GET /admin/HouseReduceDayView/?sort=1 HTTP/1.1" 200 -
 [2018-04-26 22:43:34,523]INFO | werkzeug: 127.0.0.1 - - [26/Apr/2018 22:43:34] "GET /admin/HouseReduceDayView/?sort=1&desc=1 HTTP/1.1" 200 -
+[2018-04-30 12:15:27,984]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-30 12:15:41,218]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 12:15:41] "GET / HTTP/1.1" 302 -
+[2018-04-30 12:15:41,307]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 12:15:41] "GET /admin HTTP/1.1" 301 -
+[2018-04-30 12:15:41,471]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 12:15:41] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-30 12:15:41,577]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 12:15:41] "GET /admin/static/bootstrap/bootstrap2/swatch/default/bootstrap.min.css?v=2.3.2 HTTP/1.1" 200 -
+[2018-04-30 12:15:41,615]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 12:15:41] "GET /admin/static/bootstrap/bootstrap2/css/bootstrap-responsive.css?v=2.3.2 HTTP/1.1" 200 -
+[2018-04-30 12:15:41,636]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 12:15:41] "GET /admin/static/admin/css/bootstrap2/admin.css?v=1.1.1 HTTP/1.1" 200 -
+[2018-04-30 12:15:41,641]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 12:15:41] "GET /admin/static/vendor/jquery.min.js?v=2.1.4 HTTP/1.1" 200 -
+[2018-04-30 12:15:41,648]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 12:15:41] "GET /admin/static/bootstrap/bootstrap2/js/bootstrap.min.js?v=2.3.2 HTTP/1.1" 200 -
+[2018-04-30 12:15:41,653]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 12:15:41] "GET /admin/static/vendor/moment.min.js?v=2.9.0 HTTP/1.1" 200 -
+[2018-04-30 12:15:41,666]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 12:15:41] "GET /admin/static/vendor/select2/select2.min.js?v=3.5.2 HTTP/1.1" 200 -
+[2018-04-30 12:15:41,673]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 12:15:41] "GET /admin/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-30 12:15:41,919]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 12:15:41] "GET /favicon.ico HTTP/1.1" 404 -
+[2018-04-30 12:15:45,304]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 12:15:45] "GET /admin/DevicesView/ HTTP/1.1" 200 -
+[2018-04-30 12:15:45,333]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 12:15:45] "GET /admin/static/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+[2018-04-30 12:15:45,340]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 12:15:45] "GET /admin/static/vendor/bootstrap-daterangepicker/daterangepicker-bs2.css?v=1.3.22 HTTP/1.1" 200 -
+[2018-04-30 12:15:45,351]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 12:15:45] "GET /admin/static/vendor/x-editable/css/bootstrap2-editable.css?v=1.5.1.1 HTTP/1.1" 200 -
+[2018-04-30 12:15:45,357]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 12:15:45] "GET /admin/static/vendor/bootstrap-daterangepicker/daterangepicker.js?v=1.3.22 HTTP/1.1" 200 -
+[2018-04-30 12:15:45,365]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 12:15:45] "GET /admin/static/vendor/x-editable/js/bootstrap2-editable.min.js?v=1.5.1.1 HTTP/1.1" 200 -
+[2018-04-30 12:15:45,379]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 12:15:45] "GET /admin/static/admin/js/form.js?v=1.0.1 HTTP/1.1" 200 -
+[2018-04-30 12:15:45,387]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 12:15:45] "GET /admin/static/admin/js/filters.js?v=1.0.0 HTTP/1.1" 200 -
+[2018-04-30 12:15:45,445]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 12:15:45] "GET /admin/static/bootstrap/bootstrap2/swatch/img/glyphicons-halflings.png HTTP/1.1" 200 -
+[2018-04-30 12:15:48,532]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 12:15:48] "GET /admin/HouseReduceDayView/ HTTP/1.1" 500 -
+[2018-04-30 12:18:45,265]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-30 12:18:53,679]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 12:18:53] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-30 12:18:53,825]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 12:18:53] "GET /admin/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-30 12:19:00,664]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 12:19:00] "GET /admin/HouseEveryDayPriceView/ HTTP/1.1" 200 -
+[2018-04-30 12:19:04,510]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 12:19:04] "GET /admin/HouseEveryDayPriceView/?sort=1 HTTP/1.1" 200 -
+[2018-04-30 12:19:06,087]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 12:19:06] "GET /admin/HouseEveryDayPriceView/?sort=1&desc=1 HTTP/1.1" 200 -
+[2018-04-30 12:19:07,177]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 12:19:07] "GET /admin/HouseEveryDayPriceView/?sort=1 HTTP/1.1" 200 -
+[2018-04-30 12:19:08,193]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 12:19:08] "GET /admin/HouseEveryDayPriceView/?sort=1&desc=1 HTTP/1.1" 200 -
+[2018-04-30 12:19:12,159]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 12:19:12] "GET /admin/HouseEveryDayPriceView/?sort=1&page=5812&desc=1 HTTP/1.1" 200 -
+[2018-04-30 12:19:29,806]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 12:19:29] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-30 12:19:29,895]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 12:19:29] "GET /admin/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-30 12:19:33,476]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 12:19:33] "GET /admin/HouseBaseInfoView/ HTTP/1.1" 200 -
+[2018-04-30 12:19:38,022]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 12:19:38] "GET /admin/HouseEveryDayPriceView/ HTTP/1.1" 200 -
+[2018-04-30 12:19:40,480]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 12:19:40] "GET /admin/HouseReduceDayView/ HTTP/1.1" 500 -
+[2018-04-30 12:20:10,465]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 12:20:10] "GET /admin/FilesView/ HTTP/1.1" 200 -
+[2018-04-30 12:20:13,449]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 12:20:13] "GET /admin/DevicesView/ HTTP/1.1" 200 -
+[2018-04-30 12:20:16,212]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 12:20:16] "GET /admin/RentLogView/ HTTP/1.1" 200 -
+[2018-04-30 21:19:11,440]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 21:19:11] "GET /admin/HouseReduceDayView/ HTTP/1.1" 500 -
+[2018-04-30 21:49:42,845]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 21:49:42] "GET /admin/HouseReduceDayView/ HTTP/1.1" 500 -
+[2018-04-30 21:50:44,338]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-30 21:51:15,677]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 21:51:15] "GET /admin/HouseReduceDayView/ HTTP/1.1" 200 -
+[2018-04-30 21:51:22,563]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 21:51:22] "GET /admin/HouseReduceDayView/?sort=1 HTTP/1.1" 200 -
+[2018-04-30 21:51:23,444]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 21:51:23] "GET /admin/HouseReduceDayView/?sort=1&desc=1 HTTP/1.1" 200 -
+[2018-04-30 21:54:17,189]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-30 21:54:21,401]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 21:54:21] "GET /admin/HouseReduceDayView/?sort=1 HTTP/1.1" 200 -
+[2018-04-30 21:54:25,947]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 21:54:25] "GET /admin/HouseReduceDayView/ HTTP/1.1" 200 -
+[2018-04-30 21:54:29,231]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 21:54:29] "GET /admin/HouseBaseInfoView/ HTTP/1.1" 200 -
+[2018-04-30 21:54:32,242]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 21:54:32] "GET /admin/HouseEveryDayPriceView/ HTTP/1.1" 200 -
+[2018-04-30 21:54:34,456]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 21:54:34] "GET /admin/HouseReduceDayView/ HTTP/1.1" 200 -
+[2018-04-30 21:54:50,395]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-30 21:54:57,220]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 21:54:57] "GET /admin/HouseReduceDayView/ HTTP/1.1" 200 -
+[2018-04-30 21:55:13,870]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-30 21:55:21,271]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 21:55:21] "GET /admin/HouseReduceDayView/ HTTP/1.1" 200 -
+[2018-04-30 21:55:23,567]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 21:55:23] "GET /admin/HouseReduceDayView/?sort=1 HTTP/1.1" 200 -
+[2018-04-30 21:55:24,479]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 21:55:24] "GET /admin/HouseReduceDayView/?sort=1&desc=1 HTTP/1.1" 200 -
+[2018-04-30 21:56:41,849]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 21:56:41] "GET /admin/HouseReduceDayView/?sort=1&desc=1 HTTP/1.1" 200 -

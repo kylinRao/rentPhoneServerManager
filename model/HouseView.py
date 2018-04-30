@@ -20,7 +20,7 @@ class HouseEveryDayPrice(db.Model):
     __tablename__ = 'HouseEveryDayPrice'
     id = db.Column(db.Integer(), primary_key=True)
     houseCode = db.Column(db.Integer())
-    date = db.Column(db.DATE)
+    updateDay = db.Column(db.DATE)
     totalPrice = db.Column(db.FLOAT)
     unitPrice = db.Column(db.FLOAT)
     updateTime = db.Column(db.DATETIME)
@@ -28,7 +28,7 @@ class HouseEveryDayPriceView(MyBaseModelView):
     list_template = 'admin/HouseCustom_list.html'
     column_formatters = dict(houseCode=lambda v, c, m, p: {"houseCode":m.houseCode})
     column_filters =  ['houseCode']
-    column_labels = dict(date=u'房价变更日期', totalPrice=u'总价', unitPrice=u'单元价格', updateTime=u'更新时间')
+    column_labels = dict(updateDay=u'房价变更日期', totalPrice=u'总价', unitPrice=u'单元价格', updateTime=u'更新时间')
     def __init__(self, session, **kwargs):
         # You can pass name and other parameters if you want to
         super(HouseEveryDayPriceView, self).__init__(HouseEveryDayPrice, session, **kwargs)
@@ -37,13 +37,13 @@ class HouseReduceDay(db.Model):
 
     id = db.Column(db.Integer(), primary_key=True)
     houseCode = db.Column(db.Integer())
-    date = db.Column(db.DATE)
+    updateDay = db.Column(db.DATE)
     reducePercent = db.Column(db.FLOAT)
 
 class HouseReduceDayView(MyBaseModelView):
     list_template = 'admin/HouseCustom_list.html'
     column_formatters = dict(houseCode=lambda v, c, m, p: {"houseCode":m.houseCode})
-    column_labels = dict(date=u'房价变更日期', reducePercent=u'变更幅度')
+    column_labels = dict(updateDay=u'房价变更日期', reducePercent=u'变更幅度')
     column_filters =  ['houseCode']
     def __init__(self, session, **kwargs):
         # You can pass name and other parameters if you want to

@@ -26,7 +26,8 @@ env.filters['str2dic'] = str2dic
 
 app.secret_key = 'Sqsdsffqrhgh***'
 DATABASE = '.\db\house.db'
-app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///./db/house.db'
+# app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///./db/house.db'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql://admin:Huawei123@192.168.1.112:3306/adminserver?charset=utf8'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = True
 app.debug = True
 
