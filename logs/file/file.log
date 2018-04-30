@@ -350,3 +350,146 @@
 [2018-04-30 21:55:23,567]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 21:55:23] "GET /admin/HouseReduceDayView/?sort=1 HTTP/1.1" 200 -
 [2018-04-30 21:55:24,479]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 21:55:24] "GET /admin/HouseReduceDayView/?sort=1&desc=1 HTTP/1.1" 200 -
 [2018-04-30 21:56:41,849]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 21:56:41] "GET /admin/HouseReduceDayView/?sort=1&desc=1 HTTP/1.1" 200 -
+[2018-04-30 23:01:30,885]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-30 23:01:36,723]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:01:36] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-30 23:01:36,791]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:01:36] "GET /admin/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-30 23:01:40,875]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:01:40] "GET /admin/logout/ HTTP/1.1" 200 -
+[2018-04-30 23:01:40,952]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:01:40] "GET /admin/logout/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-30 23:01:42,528]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:01:42] "GET /admin/modifyPassword/ HTTP/1.1" 200 -
+[2018-04-30 23:01:42,605]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:01:42] "GET /admin/modifyPassword/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-30 23:01:55,767]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:01:55] "POST /modifyPassword/ HTTP/1.1" 302 -
+[2018-04-30 23:01:55,795]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:01:55] "GET /admin HTTP/1.1" 301 -
+[2018-04-30 23:01:55,803]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:01:55] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-30 23:01:55,865]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:01:55] "GET /admin/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-30 23:02:08,619]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:02:08] "POST /login/ HTTP/1.1" 302 -
+[2018-04-30 23:02:08,627]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:02:08] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-30 23:02:08,687]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:02:08] "GET /admin/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-30 23:02:15,393]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:02:15] "POST /login/ HTTP/1.1" 302 -
+[2018-04-30 23:02:15,435]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:02:15] "GET / HTTP/1.1" 302 -
+[2018-04-30 23:02:15,475]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:02:15] "GET /admin HTTP/1.1" 301 -
+[2018-04-30 23:02:15,507]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:02:15] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-30 23:02:15,591]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:02:15] "GET /admin/img/a.ico HTTP/1.1" 404 -
+[2018-04-30 23:02:24,403]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:02:24] "GET /admin/modifyPassword/ HTTP/1.1" 200 -
+[2018-04-30 23:02:24,493]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:02:24] "GET /admin/modifyPassword/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-30 23:02:51,625]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:02:51] "POST /modifyPassword/ HTTP/1.1" 302 -
+[2018-04-30 23:02:51,651]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:02:51] "GET /admin HTTP/1.1" 301 -
+[2018-04-30 23:02:51,688]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:02:51] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-30 23:02:51,779]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:02:51] "GET /admin/img/a.ico HTTP/1.1" 404 -
+[2018-04-30 23:03:03,999]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:03:03] "GET /admin/logout/ HTTP/1.1" 200 -
+[2018-04-30 23:03:04,058]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:03:04] "GET /admin/logout/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-30 23:03:09,982]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:03:09] "POST /login/ HTTP/1.1" 302 -
+[2018-04-30 23:03:10,025]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:03:10] "GET / HTTP/1.1" 302 -
+[2018-04-30 23:03:10,054]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:03:10] "GET /admin HTTP/1.1" 301 -
+[2018-04-30 23:03:10,088]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:03:10] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-30 23:03:10,198]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:03:10] "GET /admin/img/a.ico HTTP/1.1" 404 -
+[2018-04-30 23:04:30,736]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-30 23:04:39,593]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:04:39] "GET /admin/logout/ HTTP/1.1" 200 -
+[2018-04-30 23:04:39,683]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:04:39] "GET /admin/logout/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-30 23:04:41,902]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:04:41] "GET /admin/modifyPassword/ HTTP/1.1" 200 -
+[2018-04-30 23:04:41,961]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:04:41] "GET /admin/modifyPassword/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-30 23:05:08,297]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:05:08] "POST /modifyPassword/ HTTP/1.1" 500 -
+[2018-04-30 23:07:01,167]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-30 23:07:19,088]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:07:19] "GET /modifyPassword/ HTTP/1.1" 302 -
+[2018-04-30 23:07:19,182]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:07:19] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-30 23:07:19,237]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:07:19] "GET /admin/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-30 23:07:29,378]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:07:29] "POST /login/ HTTP/1.1" 302 -
+[2018-04-30 23:07:29,390]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:07:29] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-30 23:07:29,437]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:07:29] "GET /admin/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-30 23:07:38,862]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:07:38] "POST /login/ HTTP/1.1" 302 -
+[2018-04-30 23:07:38,893]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:07:38] "GET / HTTP/1.1" 302 -
+[2018-04-30 23:07:39,001]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:07:39] "GET /admin HTTP/1.1" 301 -
+[2018-04-30 23:07:39,050]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:07:39] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-30 23:07:39,153]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:07:39] "GET /admin/img/a.ico HTTP/1.1" 404 -
+[2018-04-30 23:07:43,784]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:07:43] "GET /admin/logout/ HTTP/1.1" 200 -
+[2018-04-30 23:07:43,826]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:07:43] "GET /admin/logout/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-30 23:07:48,380]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:07:48] "GET /admin/modifyPassword/ HTTP/1.1" 200 -
+[2018-04-30 23:07:48,441]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:07:48] "GET /admin/modifyPassword/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-30 23:08:10,669]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:08:10] "POST /modifyPassword/ HTTP/1.1" 302 -
+[2018-04-30 23:08:10,676]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:08:10] "GET /admin HTTP/1.1" 301 -
+[2018-04-30 23:08:10,684]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:08:10] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-30 23:08:10,749]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:08:10] "GET /admin/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-30 23:11:21,874]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-30 23:11:27,656]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:11:27] "GET /admin/modifyPassword/ HTTP/1.1" 200 -
+[2018-04-30 23:11:27,719]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:11:27] "GET /admin/modifyPassword/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-30 23:11:41,521]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:11:41] "POST /modifyPassword/ HTTP/1.1" 302 -
+[2018-04-30 23:11:41,553]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:11:41] "GET /admin HTTP/1.1" 301 -
+[2018-04-30 23:11:41,573]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:11:41] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-30 23:11:41,636]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:11:41] "GET /admin/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-30 23:15:11,255]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-30 23:15:19,603]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:15:19] "GET /admin/modifyPassword/ HTTP/1.1" 200 -
+[2018-04-30 23:15:19,684]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:15:19] "GET /admin/modifyPassword/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-30 23:15:31,717]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:15:31] "POST /modifyPassword/ HTTP/1.1" 302 -
+[2018-04-30 23:15:31,737]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:15:31] "GET /admin HTTP/1.1" 301 -
+[2018-04-30 23:15:31,754]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:15:31] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-30 23:15:31,837]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:15:31] "GET /admin/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-30 23:20:03,075]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-30 23:20:11,239]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:20:11] "GET /admin/modifyPassword/ HTTP/1.1" 200 -
+[2018-04-30 23:20:11,327]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:20:11] "GET /admin/modifyPassword/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-30 23:20:24,184]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:20:24] "POST /modifyPassword/ HTTP/1.1" 500 -
+[2018-04-30 23:25:05,963]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-30 23:25:13,947]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:25:13] "GET /modifyPassword/ HTTP/1.1" 302 -
+[2018-04-30 23:25:14,124]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:25:14] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-30 23:25:14,185]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:25:14] "GET /admin/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-30 23:25:17,349]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:25:17] "GET /admin/modifyPassword/ HTTP/1.1" 200 -
+[2018-04-30 23:25:17,410]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:25:17] "GET /admin/modifyPassword/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-30 23:25:20,393]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:25:20] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-30 23:25:20,456]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:25:20] "GET /admin/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-30 23:25:24,806]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:25:24] "POST /login/ HTTP/1.1" 302 -
+[2018-04-30 23:25:24,866]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:25:24] "GET / HTTP/1.1" 302 -
+[2018-04-30 23:25:24,913]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:25:24] "GET /admin HTTP/1.1" 301 -
+[2018-04-30 23:25:24,947]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:25:24] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-30 23:25:25,043]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:25:25] "GET /admin/img/a.ico HTTP/1.1" 404 -
+[2018-04-30 23:25:27,933]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:25:27] "GET /admin/modifyPassword/ HTTP/1.1" 200 -
+[2018-04-30 23:25:28,018]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:25:28] "GET /admin/modifyPassword/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-30 23:25:39,046]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:25:39] "POST /modifyPassword/ HTTP/1.1" 500 -
+[2018-04-30 23:27:23,112]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-30 23:27:27,923]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:27:27] "GET /modifyPassword/ HTTP/1.1" 302 -
+[2018-04-30 23:27:28,090]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:27:28] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-30 23:27:28,222]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:27:28] "GET /admin/img/a.ico HTTP/1.1" 404 -
+[2018-04-30 23:27:30,805]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:27:30] "GET /admin/modifyPassword/ HTTP/1.1" 200 -
+[2018-04-30 23:27:30,892]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:27:30] "GET /admin/modifyPassword/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-30 23:27:41,760]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:27:41] "POST /modifyPassword/ HTTP/1.1" 500 -
+[2018-04-30 23:30:46,165]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-30 23:30:53,146]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:30:53] "GET /modifyPassword/ HTTP/1.1" 302 -
+[2018-04-30 23:30:53,324]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:30:53] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-30 23:30:53,417]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:30:53] "GET /admin/img/a.ico HTTP/1.1" 404 -
+[2018-04-30 23:30:56,425]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:30:56] "GET /admin/modifyPassword/ HTTP/1.1" 200 -
+[2018-04-30 23:30:56,524]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:30:56] "GET /admin/modifyPassword/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-30 23:31:11,132]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:31:11] "POST /modifyPassword/ HTTP/1.1" 500 -
+[2018-04-30 23:31:25,641]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-30 23:31:29,004]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:31:29] "GET /modifyPassword/ HTTP/1.1" 302 -
+[2018-04-30 23:31:29,167]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:31:29] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-30 23:31:29,280]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:31:29] "GET /admin/img/a.ico HTTP/1.1" 404 -
+[2018-04-30 23:31:31,435]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:31:31] "GET /admin/modifyPassword/ HTTP/1.1" 200 -
+[2018-04-30 23:31:31,527]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:31:31] "GET /admin/modifyPassword/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-30 23:31:43,568]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:31:43] "POST /modifyPassword/ HTTP/1.1" 500 -
+[2018-04-30 23:34:30,579]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-30 23:34:46,135]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-30 23:34:50,734]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:34:50] "GET /modifyPassword/ HTTP/1.1" 302 -
+[2018-04-30 23:34:50,856]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:34:50] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-30 23:34:50,972]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:34:50] "GET /admin/img/a.ico HTTP/1.1" 404 -
+[2018-04-30 23:34:53,665]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:34:53] "GET /admin/modifyPassword/ HTTP/1.1" 200 -
+[2018-04-30 23:34:53,771]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:34:53] "GET /admin/modifyPassword/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-30 23:35:05,198]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:35:05] "POST /modifyPassword/ HTTP/1.1" 500 -
+[2018-04-30 23:35:26,034]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-30 23:35:28,834]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:35:28] "GET /modifyPassword/ HTTP/1.1" 302 -
+[2018-04-30 23:35:28,980]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:35:28] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-30 23:35:29,087]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:35:29] "GET /admin/img/a.ico HTTP/1.1" 404 -
+[2018-04-30 23:35:35,706]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:35:35] "GET /admin/modifyPassword/ HTTP/1.1" 200 -
+[2018-04-30 23:35:35,784]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:35:35] "GET /admin/modifyPassword/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-30 23:35:48,147]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:35:48] "POST /modifyPassword/ HTTP/1.1" 500 -
+[2018-04-30 23:36:20,684]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-30 23:36:23,973]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:36:23] "GET /modifyPassword/ HTTP/1.1" 302 -
+[2018-04-30 23:36:24,121]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:36:24] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-30 23:36:24,207]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:36:24] "GET /admin/img/a.ico HTTP/1.1" 404 -
+[2018-04-30 23:36:26,243]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:36:26] "GET /admin/modifyPassword/ HTTP/1.1" 200 -
+[2018-04-30 23:36:26,359]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:36:26] "GET /admin/modifyPassword/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-30 23:36:37,604]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:36:37] "POST /modifyPassword/ HTTP/1.1" 500 -
+[2018-04-30 23:39:02,072]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+[2018-04-30 23:39:06,666]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:39:06] "GET /modifyPassword/ HTTP/1.1" 302 -
+[2018-04-30 23:39:06,824]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:39:06] "GET /admin/ HTTP/1.1" 200 -
+[2018-04-30 23:39:06,936]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:39:06] "GET /admin/img/a.ico HTTP/1.1" 404 -
+[2018-04-30 23:39:09,371]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:39:09] "GET /admin/modifyPassword/ HTTP/1.1" 200 -
+[2018-04-30 23:39:09,457]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:39:09] "GET /admin/modifyPassword/images/bg_img1.jpg HTTP/1.1" 404 -
+[2018-04-30 23:39:19,797]INFO | werkzeug: 192.168.1.106 - - [30/Apr/2018 23:39:19] "POST /modifyPassword/ HTTP/1.1" 500 -
+[2018-04-30 23:40:31,307]INFO | werkzeug:  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)

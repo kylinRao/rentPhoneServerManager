@@ -80,18 +80,14 @@ def modifyPassword():
             print("modifyPassword mehtod in common")
             print user.password
             user.password = hashlib.sha256(request.form.get('newPassword02')).hexdigest()
+
+            print(request.form.get('newPassword02'))
+            db.session.query(Users).filter_by(name=name).update({'password': user.password})
+
             db.session.commit()
-            print user.password
-            conn = sqlite3.connect(DATABASE)
-            conn.cursor().execute(u"update users set password = '{password}' where name = '{name}'".format(password=user.password,name = name))
-            conn.commit()
-            conn.close()
 
-
-            # login_user(user, remember=True)
             flash(u'密码修改成功')
-            # next_url = request.args.get('next')
-            # return redirect(next_url or url_for('index'))
+
     return redirect('/admin')
 
 @app.errorhandler(404)
