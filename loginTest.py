@@ -67,13 +67,13 @@ if __name__ == '__main__':
     admin.add_view(MyRoles_UsersView(db.session, name=u'角色分配', endpoint='Roles_UsersView',category=u"用户与角色"))
 
     admin.add_view(HouseEveryDayPriceView(db.session,name='房屋基本价格信息', endpoint='HouseEveryDayPriceView',category=u"链家房产"))
-    admin.add_view(HouseBaseInfoView(db.session,name='房屋基本信息', endpoint='HouseBaseInfoView',category=u"链家房产"))
+    # admin.add_view(HouseBaseInfoView(db.session,name='房屋基本信息', endpoint='HouseBaseInfoView',category=u"链家房产"))
     admin.add_view(HouseReduceDayView(db.session,name='房价涨幅信息', endpoint='HouseReduceDayView',category=u"链家房产"))
     admin.add_view(FilesView(name='文件下载', endpoint='FilesView', category=u"相关文件"))
     admin.add_view(ModifyPassword(name='密码修改', endpoint='modifyPassword',category=u"与我相关"))
     admin.add_view(LogoutView(name='登出', endpoint='logout',category=u"与我相关"))
 
 
-    app.run(host="0.0.0.0", port=9999, debug=False)
+    app.run(host="0.0.0.0", port=9999, debug=True)
 
 

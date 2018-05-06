@@ -9,7 +9,7 @@ import os
 
 from flask import send_from_directory, request,abort
 from flask_admin import BaseView, expose
-STATIC_FILES_DIR = 'statics/files'
+STATIC_FILES_DIR = 'static/files'
 
 class FilesView(BaseView):
 

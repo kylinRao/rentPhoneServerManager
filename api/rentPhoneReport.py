@@ -3,13 +3,15 @@ import hashlib
 import json
 
 from datetime import datetime, time
-from flask import  request, g
+from flask import  request, g, render_template, session
 from flask.ext.security import SQLAlchemyUserDatastore, Security
 from flask.ext.sqlalchemy import SQLAlchemy
+from sqlalchemy import func
 
 from logControl import logControl
 from init import app,db
 from model import staticMem
+from model.HouseView import HouseEveryDayPrice
 from model.devicesView import Devices
 from model.rentLogView import Rentlog
 from model.roleUser import Users, Roles
@@ -189,3 +191,38 @@ def rentPhoneReport():
             data = {"responseCode":staticMem.RENT_DB_ERROR,"Msg":"db error"}
             return json.dumps(data)
     return json.dumps({'responseCode':0})
+@app.route('/thirdApi', methods=['POST', 'GET'])
+def thirdApi():
+
+    logControl.getLogger().info("wo got the method :{method}".format(method=request.form.get("method", 'getNoMethod')))
+
+# rent method
+    if request.form.get("method", 'getNoMethod') == "server.chromeExtApi.getHousePrice":
+        houseCode =  request.form.get("houseCode")
+        print houseCode
+        housePrices = HouseEveryDayPrice.query.filter_by(houseCode=houseCode)
+        houseList = []
+        for i in housePrices:
+            houseList.append({"updateDay":str(i.updateDay),"totalPrice":i.totalPrice,"unitPrice":i.unitPrice})
+
+
+        return json.dumps(houseList)
+    return json.dumps({'responseCode':0})
+@app.route('/showHousePrice/<houseCode>', methods=['GET'])
+def showHousePrice(houseCode):
+
+
+    logControl.getLogger().info(u"to return price Page of {houseCode}".format(houseCode=houseCode))
+
+# rent method
+
+
+    housePrices = HouseEveryDayPrice.query.filter_by(houseCode=houseCode).order_by(HouseEveryDayPrice.totalPrice)
+
+    yAxisMin = housePrices[0].totalPrice
+    yAxisMax = housePrices[-1].totalPrice
+
+    # for item in housePrices:
+    #     print item
+    # return json.dumps(housePrices)
+    return render_template('housePriceLine.html',housePrices=housePrices,yAxisMin=yAxisMin,yAxisMax=yAxisMax)
